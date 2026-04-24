@@ -1,0 +1,61 @@
+﻿fecha,tipo,descripcion,monto_usd,organismo,id_incidente,id_reactor,estado,fecha_limite
+2023-02-28,Multa,"""Fallo en prueba de sistema SCRAM""",42299.87,OSHA,42,4,Cancelada,2023-08-25
+2021-10-09,Multa,"""Documentación de seguridad incompleta""",323280.96,FEMA,,2,Cancelada,2021-12-16
+2021-09-27,Multa,"""Fallo en prueba de sistema SCRAM""",154896.12,EPA,46,1,Pendiente,2022-02-22
+2022-11-04,Multa,"""Plan de evacuación desactualizado""",42981.85,NRC,56,4,Apelada,2023-03-12
+2021-10-20,Multa,"""Mantenimiento no realizado en fecha prevista""",448459.0,EPA,59,4,Pagada,2022-03-20
+2022-10-30,Advertencia,"""Exceso de límite de radiación en empleado""",3484.05,FEMA,65,2,Apelada,2023-01-12
+2022-03-04,Multa,"""Exceso de límite de radiación en empleado""",264413.93,OSHA,,2,Pagada,2022-07-16
+2023-10-21,Advertencia,"""Violación protocolo de reporte en 24 horas""",19941.45,OSHA,9,1,Pagada,2024-02-26
+2023-09-21,Multa,"""Fallo en prueba de sistema SCRAM""",482382.96,OSHA,8,1,Pagada,2023-11-26
+2021-09-26,Suspension,"""Fallo en prueba de sistema SCRAM""",110802.4,NRC,,3,Pagada,2022-03-18
+2022-12-14,Multa,"""Sensor de radiación sin calibración""",336707.62,OSHA,62,4,Apelada,2023-02-05
+2024-04-18,Advertencia,"""Falta de equipo de protección en zona caliente""",1437.53,EPA,31,,Pagada,2024-09-19
+2024-09-06,Multa,"""Sensor de radiación sin calibración""",43196.72,FEMA,70,1,Apelada,2025-02-17
+2024-04-28,Multa,"""Documentación de seguridad incompleta""",69869.28,NRC,75,1,Pagada,2024-07-09
+2024-03-13,Advertencia,"""Falta de equipo de protección en zona caliente""",17232.71,NRC,26,2,Pendiente,2024-08-04
+2022-06-21,Multa,"""Exceso de límite de radiación en empleado""",452467.3,NRC,52,4,Pendiente,2022-11-16
+2020-10-10,Advertencia,"""Almacenamiento inadecuado de residuos""",13659.03,OSHA,73,4,Cancelada,2021-01-12
+2021-08-06,Multa,"""Falta de equipo de protección en zona caliente""",279497.67,EPA,77,4,Pendiente,2021-09-26
+2022-07-12,Advertencia,"""Almacenamiento inadecuado de residuos""",4536.37,NRC,20,,Pagada,2022-11-08
+2020-02-27,Suspension,"""Incidente no reportado a tiempo""",85260.92,EPA,34,,Pendiente,2020-06-17
+2022-08-25,Suspension,"""Fallo en prueba de sistema SCRAM""",63587.75,DOE,,1,Pendiente,2022-10-29
+2023-01-28,Advertencia,"""Documentación de seguridad incompleta""",1126.03,EPA,76,2,Pendiente,2023-07-12
+2022-07-25,Multa,"""Vertimiento sin tratamiento previo""",154069.84,OSHA,72,2,Pendiente,2022-09-09
+2021-08-19,Multa,"""Documentación de seguridad incompleta""",270346.62,FEMA,65,3,Pagada,2022-01-05
+2020-05-18,Multa,"""Documentación de seguridad incompleta""",211200.96,NRC,,1,Pagada,2020-10-29
+2022-02-03,Advertencia,"""Almacenamiento inadecuado de residuos""",14299.65,OSHA,58,3,Pagada,2022-05-08
+2024-02-14,Advertencia,"""Operación sin licencia vigente de personal""",9275.26,NRC,70,4,Pagada,2024-06-08
+2023-11-25,Multa,"""Falta de equipo de protección en zona caliente""",407686.89,NRC,42,4,Pendiente,2024-04-25
+2024-06-08,Advertencia,"""Operación sin licencia vigente de personal""",18185.08,DOE,19,1,Apelada,2024-08-28
+2024-03-22,Suspension,"""Plan de evacuación desactualizado""",86999.87,NRC,23,3,Cancelada,2024-06-08
+2024-12-26,Multa,"""Violación protocolo de reporte en 24 horas""",433570.15,DOE,34,1,Pagada,2025-05-07
+2024-06-20,Advertencia,"""Incidente no reportado a tiempo""",9136.88,DOE,34,4,Pendiente,2024-11-29
+2021-10-19,Multa,"""Incidente no reportado a tiempo""",44068.87,NRC,50,4,Pagada,2021-12-14
+2022-07-04,Multa,"""Plan de evacuación desactualizado""",225728.3,OSHA,40,1,Pagada,2022-08-13
+2020-06-02,Advertencia,"""Documentación de seguridad incompleta""",24955.61,FEMA,,,Pendiente,2020-10-13
+2022-06-16,Multa,"""Fallo en prueba de sistema SCRAM""",84193.43,DOE,62,4,Pendiente,2022-07-24
+2023-10-22,Multa,"""Fallo en prueba de sistema SCRAM""",186332.59,NRC,55,3,Pagada,2024-03-15
+2021-05-26,Suspension,"""Operación sin licencia vigente de personal""",94609.83,NRC,59,2,Pagada,2021-07-24
+2022-07-02,Multa,"""Almacenamiento inadecuado de residuos""",196558.75,NRC,24,2,Pagada,2022-09-24
+2020-12-19,Clausura_Parcial,"""Exceso de límite de radiación en empleado""",0.0,NRC,7,1,Pendiente,2021-05-11
+2021-08-17,Clausura_Parcial,"""Falta de equipo de protección en zona caliente""",0.0,DOE,50,4,Pagada,2021-12-01
+2021-02-15,Suspension,"""Mantenimiento no realizado en fecha prevista""",102901.0,OSHA,11,3,Pagada,2021-04-21
+2023-06-07,Multa,"""Falta de equipo de protección en zona caliente""",279240.61,EPA,50,4,Pagada,2023-07-29
+2020-05-31,Multa,"""Mantenimiento no realizado en fecha prevista""",360840.48,NRC,75,4,Pagada,2020-08-01
+2024-08-24,Clausura_Parcial,"""Exceso de límite de radiación en empleado""",0.0,OSHA,12,3,Pagada,2025-02-11
+2020-11-09,Advertencia,"""Sensor de radiación sin calibración""",11382.84,NRC,12,1,Apelada,2021-02-24
+2020-06-10,Multa,"""Mantenimiento no realizado en fecha prevista""",116607.79,NRC,26,3,Apelada,2020-09-12
+2020-12-11,Multa,"""Plan de evacuación desactualizado""",66959.3,FEMA,46,3,Pagada,2021-06-07
+2024-11-04,Multa,"""Mantenimiento no realizado en fecha prevista""",451490.44,OSHA,4,,Pagada,2024-12-11
+2020-03-03,Multa,"""Documentación de seguridad incompleta""",136004.67,FEMA,56,3,Pendiente,2020-08-07
+2021-09-01,Suspension,"""Fallo en prueba de sistema SCRAM""",144364.52,EPA,62,4,Pagada,2022-01-25
+2024-10-30,Multa,"""Exceso de límite de radiación en empleado""",210732.76,NRC,13,2,Pagada,2025-02-18
+2022-08-13,Advertencia,"""Incidente no reportado a tiempo""",4138.39,DOE,29,3,Pagada,2022-10-13
+2024-11-07,Multa,"""Operación sin licencia vigente de personal""",30049.62,NRC,38,4,Apelada,2025-01-16
+2022-10-18,Suspension,"""Mantenimiento no realizado en fecha prevista""",60652.94,FEMA,47,3,Pagada,2023-02-03
+2020-04-13,Multa,"""Incidente no reportado a tiempo""",255195.01,NRC,32,1,Cancelada,2020-07-24
+2020-10-01,Multa,"""Fallo en prueba de sistema SCRAM""",337897.7,DOE,10,1,Pendiente,2021-01-06
+2021-08-14,Advertencia,"""Falta de equipo de protección en zona caliente""",2085.82,OSHA,33,3,Pendiente,2021-10-01
+2020-07-17,Multa,"""Almacenamiento inadecuado de residuos""",143461.74,EPA,11,4,Cancelada,2020-11-24
+2022-10-21,Multa,"""Almacenamiento inadecuado de residuos""",469779.54,FEMA,46,1,Pagada,2022-11-30

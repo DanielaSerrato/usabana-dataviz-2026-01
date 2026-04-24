@@ -1,0 +1,16 @@
+﻿id_capacitacion,nombre,tipo,horas,obligatoria,id_proveedor,costo_usd
+1,Protocolo de Seguridad Nuclear Básico,Seguridad,40.0,True,7,3200.0
+2,Manejo de Materiales Radiactivos,Tecnica,24.0,True,7,2800.0
+3,Simulacro de Evacuación INES 4-7,Evacuacion,16.0,True,5,1500.0
+4,Operación Avanzada de Reactores PWR,Tecnica,80.0,False,7,6500.0
+5,Liderazgo en Crisis Nuclear,Liderazgo,32.0,False,7,4200.0
+6,Cumplimiento NRC y Regulaciones Federales,Compliance,20.0,True,7,1800.0
+7,Primeros Auxilios en Entornos Radiactivos,Seguridad,12.0,True,5,900.0
+8,Uso Correcto de Equipos de Protección Personal,Seguridad,8.0,True,,500.0
+9,Lectura e Interpretación de Dosímetros,Tecnica,6.0,True,,300.0
+10,Gestión de Residuos Radiactivos,Compliance,16.0,True,7,1400.0
+11,Respuesta ante Fugas Químicas,Seguridad,10.0,True,5,800.0
+12,Operación de Reactor BWR,Tecnica,60.0,False,7,5500.0
+13,Comunicación en Emergencias,Evacuacion,8.0,True,,400.0
+14,Ética y Compliance Nuclear,Compliance,12.0,False,7,1200.0
+15,Análisis de Riesgos de Planta,Tecnica,40.0,False,7,3800.0

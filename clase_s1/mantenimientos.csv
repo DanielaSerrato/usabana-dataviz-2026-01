@@ -1,0 +1,121 @@
+﻿fecha,tipo,descripcion,costo,id_reactor,id_empleado,duracion_horas,resultado
+2023-09-22,Correctivo,"""Corrección fuga en tubería secundaria""",92388.96,3,6,8,Exitoso
+2021-10-30,Emergencia,"""Estabilización post-incidente""",274333.65,3,18,72,Exitoso
+2023-06-14,Preventivo,"""Inspección anual completa del reactor""",15551.21,1,8,24,Exitoso
+2022-08-10,Preventivo,"""Revisión trimestral de válvulas y tuberías""",21713.12,2,12,12,Exitoso
+2022-11-21,Preventivo,"""Mantenimiento sistema HVAC""",31025.24,3,12,12,Exitoso
+2024-07-09,Correctivo,"""Reparación bomba circulación tras falla""",100934.46,3,8,8,Exitoso
+2022-07-21,Preventivo,"""Reemplazo filtros sistema de ventilación""",59116.48,1,6,36,Exitoso
+2020-10-29,Preventivo,"""Reemplazo filtros sistema de ventilación""",44509.03,3,8,24,Exitoso
+2020-04-12,Correctivo,"""Reparación bomba circulación tras falla""",96734.14,1,18,8,Exitoso
+2024-03-26,Preventivo,"""Calibración de sensores de temperatura""",30105.4,5,12,24,Exitoso
+2020-11-21,Correctivo,"""Corrección fuga en tubería secundaria""",108662.13,3,18,24,Parcial
+2023-07-07,Correctivo,"""Corrección sobrecalentamiento""",93936.56,2,18,48,Exitoso
+2020-10-10,Preventivo,"""Revisión del sistema SCRAM""",17897.15,2,6,16,Exitoso
+2023-01-16,Preventivo,"""Inspección anual completa del reactor""",43853.05,2,12,8,Exitoso
+2024-10-20,Preventivo,"""Prueba de integridad del contenedor""",26421.22,1,6,36,Exitoso
+2024-10-13,Correctivo,"""Reparación sistema de enfriamiento""",15619.09,3,18,24,Exitoso
+2022-09-26,Correctivo,"""Sustitución sensor defectuoso""",93489.15,4,8,48,Parcial
+2020-09-18,Preventivo,"""Revisión trimestral de válvulas y tuberías""",26387.15,2,18,24,Exitoso
+2020-10-04,Emergencia,"""Sellado de fuga radiactiva de emergencia""",239811.05,2,18,24,Exitoso
+2024-04-07,Correctivo,"""Corrección sobrecalentamiento""",54805.91,1,12,8,Exitoso
+2021-12-17,Correctivo,"""Reparación sistema de enfriamiento""",41488.51,1,6,8,Exitoso
+2023-06-26,Preventivo,"""Revisión trimestral de válvulas y tuberías""",46482.83,1,6,12,Exitoso
+2024-04-19,Preventivo,"""Calibración de sensores de temperatura""",36018.33,1,12,12,Exitoso
+2023-03-31,Preventivo,"""Calibración de sensores de temperatura""",47778.55,3,6,12,Parcial
+2020-07-27,Preventivo,"""Prueba de integridad del contenedor""",26815.99,2,8,12,Exitoso
+2021-12-12,Correctivo,"""Corrección fuga en tubería secundaria""",78043.22,2,6,8,Parcial
+2024-08-11,Preventivo,"""Calibración de sensores de temperatura""",32827.84,3,18,16,Exitoso
+2020-12-26,Preventivo,"""Limpieza de circuitos de refrigeración""",39957.18,2,18,24,Exitoso
+2022-06-11,Correctivo,"""Corrección sobrecalentamiento""",79670.8,5,18,48,Parcial
+2021-05-14,Correctivo,"""Corrección sobrecalentamiento""",104429.88,3,18,8,Exitoso
+2021-01-07,Correctivo,"""Corrección fuga en tubería secundaria""",54793.88,3,12,8,Exitoso
+2023-02-12,Preventivo,"""Revisión del sistema SCRAM""",23718.64,2,12,36,Exitoso
+2023-11-15,Preventivo,"""Calibración de sensores de temperatura""",18274.58,5,8,24,Exitoso
+2023-11-17,Preventivo,"""Revisión semestral barras de control""",48611.31,3,18,8,Exitoso
+2021-12-21,Preventivo,"""Limpieza de circuitos de refrigeración""",31029.33,3,12,36,Exitoso
+2024-03-01,Correctivo,"""Corrección sobrecalentamiento""",39206.49,1,6,48,Exitoso
+2020-07-24,Preventivo,"""Inspección anual completa del reactor""",15534.75,4,12,24,Exitoso
+2021-07-15,Correctivo,"""Corrección sobrecalentamiento""",33841.36,1,8,8,Exitoso
+2020-07-29,Preventivo,"""Revisión del sistema SCRAM""",43357.96,1,18,12,Exitoso
+2021-06-01,Correctivo,"""Reparación sistema de enfriamiento""",65264.99,3,6,24,Exitoso
+2020-11-06,Emergencia,"""Estabilización post-incidente""",188191.01,2,6,24,Exitoso
+2023-05-26,Preventivo,"""Revisión del sistema SCRAM""",9684.95,3,18,12,Exitoso
+2021-09-17,Preventivo,"""Mantenimiento sistema HVAC""",25920.79,3,18,24,Exitoso
+2023-09-14,Preventivo,"""Calibración de sensores de temperatura""",57117.46,1,12,12,Exitoso
+2021-08-19,Preventivo,"""Mantenimiento sistema HVAC""",9128.57,1,18,8,Exitoso
+2021-06-25,Preventivo,"""Revisión del sistema SCRAM""",43664.32,1,8,24,Exitoso
+2023-08-19,Correctivo,"""Corrección fuga en tubería secundaria""",99410.1,3,8,8,Exitoso
+2022-06-18,Preventivo,"""Inspección anual completa del reactor""",8927.54,1,12,12,Exitoso
+2020-06-13,Preventivo,"""Prueba de integridad del contenedor""",56847.19,3,18,36,Exitoso
+2024-04-15,Preventivo,"""Limpieza de circuitos de refrigeración""",38204.25,4,6,8,Exitoso
+2021-07-23,Correctivo,"""Reparación bomba circulación tras falla""",95126.45,1,18,8,Exitoso
+2021-10-19,Preventivo,"""Revisión semestral barras de control""",58298.04,3,12,24,Exitoso
+2024-07-24,Correctivo,"""Corrección sobrecalentamiento""",58222.73,4,18,24,Exitoso
+2024-11-06,Correctivo,"""Reparación bomba circulación tras falla""",48024.3,1,18,24,Exitoso
+2023-06-29,Preventivo,"""Mantenimiento sistema HVAC""",30408.7,5,12,8,Exitoso
+2022-06-16,Correctivo,"""Reparación bomba circulación tras falla""",36373.62,3,12,48,Exitoso
+2021-09-28,Correctivo,"""Reparación bomba circulación tras falla""",117180.42,2,8,48,Parcial
+2023-08-19,Preventivo,"""Calibración de sensores de temperatura""",17358.54,3,6,8,Exitoso
+2022-08-25,Correctivo,"""Corrección fuga en tubería secundaria""",45645.46,2,18,48,Exitoso
+2024-11-04,Preventivo,"""Prueba de integridad del contenedor""",15483.57,3,8,36,Exitoso
+2021-08-02,Preventivo,"""Prueba de integridad del contenedor""",23693.14,4,6,36,Exitoso
+2023-01-08,Correctivo,"""Sustitución sensor defectuoso""",119884.74,4,18,24,Parcial
+2023-03-17,Preventivo,"""Mantenimiento sistema HVAC""",25746.55,2,8,16,Exitoso
+2022-03-01,Preventivo,"""Prueba de integridad del contenedor""",7400.6,4,18,24,Exitoso
+2024-11-16,Emergencia,"""Reparación urgente sistema de contención""",213738.74,4,12,24,Exitoso
+2022-04-19,Preventivo,"""Calibración de sensores de temperatura""",33927.31,4,8,24,Exitoso
+2023-08-23,Correctivo,"""Reparación bomba circulación tras falla""",64296.51,5,18,24,Exitoso
+2024-11-21,Preventivo,"""Mantenimiento sistema HVAC""",25900.52,2,18,16,Exitoso
+2022-06-07,Preventivo,"""Reemplazo filtros sistema de ventilación""",39713.86,3,6,16,Parcial
+2021-10-26,Emergencia,"""Estabilización post-incidente""",199793.21,4,6,72,Fallido
+2020-12-14,Correctivo,"""Corrección sobrecalentamiento""",60222.11,1,8,8,Exitoso
+2021-04-20,Preventivo,"""Prueba de integridad del contenedor""",39084.07,3,8,12,Exitoso
+2020-05-31,Preventivo,"""Revisión del sistema SCRAM""",41676.24,1,8,24,Exitoso
+2024-09-27,Preventivo,"""Revisión del sistema SCRAM""",40141.63,2,18,24,Exitoso
+2023-12-03,Preventivo,"""Revisión semestral barras de control""",10865.93,5,12,24,Exitoso
+2023-05-26,Preventivo,"""Prueba de integridad del contenedor""",20096.42,5,6,36,Exitoso
+2021-03-24,Correctivo,"""Corrección sobrecalentamiento""",96452.8,4,12,8,Exitoso
+2023-07-10,Correctivo,"""Corrección fuga en tubería secundaria""",94335.62,3,8,48,Exitoso
+2024-02-08,Preventivo,"""Revisión trimestral de válvulas y tuberías""",21991.31,3,12,24,Exitoso
+2022-12-23,Preventivo,"""Limpieza de circuitos de refrigeración""",46111.45,5,12,12,Exitoso
+2024-03-08,Preventivo,"""Inspección anual completa del reactor""",19133.35,1,12,24,Parcial
+2024-10-27,Correctivo,"""Reparación sistema de enfriamiento""",116103.8,4,8,8,Parcial
+2020-01-29,Correctivo,"""Reparación sistema de enfriamiento""",116563.32,3,18,48,Exitoso
+2020-08-09,Preventivo,"""Limpieza de circuitos de refrigeración""",42005.56,1,12,16,Exitoso
+2023-08-19,Correctivo,"""Sustitución sensor defectuoso""",107844.66,2,8,48,Exitoso
+2021-09-15,Preventivo,"""Revisión del sistema SCRAM""",40708.17,4,6,8,Exitoso
+2023-10-05,Emergencia,"""Reparación urgente sistema de contención""",319560.01,1,12,48,Exitoso
+2024-09-03,Emergencia,"""Restablecimiento sistema de refrigeración primaria""",193164.22,3,6,48,Parcial
+2021-04-28,Preventivo,"""Revisión del sistema SCRAM""",6799.4,2,18,16,Exitoso
+2021-07-19,Correctivo,"""Corrección fuga en tubería secundaria""",53570.17,1,18,48,Exitoso
+2020-04-13,Preventivo,"""Revisión semestral barras de control""",10042.04,1,6,12,Exitoso
+2023-04-15,Correctivo,"""Sustitución válvula de control de presión""",97632.7,1,8,8,Exitoso
+2020-09-23,Preventivo,"""Limpieza de circuitos de refrigeración""",47590.27,4,8,36,Exitoso
+2024-06-05,Preventivo,"""Calibración de sensores de temperatura""",41358.17,4,12,8,Exitoso
+2022-12-13,Correctivo,"""Reparación bomba circulación tras falla""",33295.85,3,18,8,Exitoso
+2022-10-28,Preventivo,"""Revisión semestral barras de control""",47790.94,1,18,36,Exitoso
+2024-10-01,Preventivo,"""Mantenimiento sistema HVAC""",21589.67,3,18,8,Exitoso
+2021-10-21,Preventivo,"""Revisión semestral barras de control""",44182.07,3,6,24,Exitoso
+2022-02-19,Correctivo,"""Corrección sobrecalentamiento""",80553.34,1,12,48,Exitoso
+2024-10-12,Emergencia,"""Sellado de fuga radiactiva de emergencia""",216498.79,2,6,96,Exitoso
+2022-04-27,Correctivo,"""Sustitución sensor defectuoso""",90688.19,4,8,8,Exitoso
+2022-02-05,Preventivo,"""Prueba de integridad del contenedor""",45128.69,2,12,16,Exitoso
+2024-03-04,Emergencia,"""Sellado de fuga radiactiva de emergencia""",98125.99,3,6,24,Exitoso
+2022-04-21,Correctivo,"""Sustitución sensor defectuoso""",21298.0,4,6,48,Exitoso
+2021-12-21,Preventivo,"""Prueba de integridad del contenedor""",52745.07,3,12,8,Parcial
+2024-09-27,Preventivo,"""Inspección anual completa del reactor""",41120.5,2,12,12,Exitoso
+2023-06-01,Preventivo,"""Revisión del sistema SCRAM""",36575.5,1,6,24,Exitoso
+2021-11-26,Emergencia,"""Intervención de emergencia en núcleo""",87817.36,4,12,72,Parcial
+2020-07-06,Preventivo,"""Inspección anual completa del reactor""",36147.66,1,6,24,Exitoso
+2024-05-09,Correctivo,"""Reparación sistema de enfriamiento""",62632.81,1,12,8,Exitoso
+2022-06-26,Emergencia,"""Estabilización post-incidente""",122006.57,3,12,24,Parcial
+2021-12-07,Correctivo,"""Reparación sistema de enfriamiento""",58489.29,2,6,8,Parcial
+2023-05-12,Preventivo,"""Revisión semestral barras de control""",33981.38,1,18,16,Exitoso
+2020-01-16,Preventivo,"""Reemplazo filtros sistema de ventilación""",47204.22,1,6,16,Exitoso
+2020-05-27,Preventivo,"""Inspección anual completa del reactor""",25911.41,2,12,12,Exitoso
+2023-03-20,Preventivo,"""Prueba de integridad del contenedor""",6030.78,3,18,8,Exitoso
+2024-06-29,Preventivo,"""Revisión del sistema SCRAM""",11334.54,3,8,8,Parcial
+2022-12-09,Emergencia,"""Intervención de emergencia en núcleo""",103795.07,2,18,24,Exitoso
+2022-12-22,Preventivo,"""Limpieza de circuitos de refrigeración""",17186.46,4,6,12,Exitoso
+2021-06-08,Preventivo,"""Limpieza de circuitos de refrigeración""",24310.49,5,8,12,Exitoso

@@ -1,0 +1,11 @@
+﻿id_proveedor,nombre,pais,tipo,contacto,contrato_vigente,calificacion,monto_contrato
+1,NuclearCorp SA,Francia,Combustible,nuclear@ncorp.fr,True,5,4500000.0
+2,Springfield Water Co.,USA,Refrigerante,supply@spwater.com,True,3,120000.0
+3,Burns Industries Ltd.,USA,Equipamiento,procurement@burns.com,True,4,2200000.0
+4,CanadiaCorp Heavy Water,Canadá,Refrigerante,sales@canadiacorp.ca,True,4,680000.0
+5,SafeGuard Systems,Alemania,Seguridad,info@safeguard.de,True,5,950000.0
+6,ChemSpring Chemicals,USA,Combustible,chem@chemspring.com,True,3,340000.0
+7,NuclearTraining Inc.,USA,Servicios,train@nuctraining.com,True,4,280000.0
+8,Apu Suministros,USA,Alimentos,apu@kwik-e.com,True,5,36000.0
+9,OilNuke LLC,"Texas, USA",Equipamiento,lube@oilnuke.com,False,2,45000.0
+10,GrafiteCo International,Rusia,Equipamiento,sales@grafiteco.ru,False,1,120000.0

@@ -1,0 +1,81 @@
+﻿id_incidente,fecha,tipo,severidad,id_turno,id_reactor,descripcion,requiere_evacuacion,costo_impacto,resuelto
+1,2023-03-15,Alarma_Falsa,1,13,2,"""Sensor de temperatura defectuoso activó alarma sin causa real""",0,5000.0,1
+2,2023-06-21,Sobrecalentamiento,3,19,3,"""Temperatura del núcleo superó umbral por falla en sistema de refrigeración""",0,85000.0,1
+3,2023-11-18,Error_Operador,4,34,4,"""Homer se durmió durante turno crítico. Protocolo de emergencia activado""",1,180000.0,1
+4,2024-07-07,Mayor,7,121,4,"""Fallo catastrófico reactor RBMK. Evacuación total zona norte de Springfield""",1,950000.0,0
+5,2024-04-01,Fuga,2,88,1,"""Fuga menor de refrigerante contenida en sala de bombas""",0,22000.0,1
+6,2023-09-12,Fallo_Mecanico,2,25,2,"""Falla en bomba de circulación secundaria""",0,45000.0,1
+7,2024-08-13,Sobrecalentamiento,3,139,3,"""Mantenimiento incompleto derivó en sobrecalentamiento moderado""",0,67000.0,1
+8,2024-10-15,Alarma_Falsa,1,154,1,"""Falsa alarma por interferencia electromagnética en panel de control""",0,3500.0,1
+9,2021-08-09,Alarma_Falsa,0,251,3,"""Sensor defectuoso activó alarma sin causa real""",0,1976.77,1
+10,2020-07-27,Fuga,3,90,4,"""Fuga de boro líquido contenida en nivel 2""",0,92192.18,1
+11,2023-12-11,Fuga,1,617,1,"""Fuga menor de refrigerante en circuito primario""",0,12541.17,1
+12,2023-11-13,Alarma_Falsa,1,604,1,"""Interferencia electromagnética en panel""",0,16760.32,1
+13,2022-03-28,Fuga,1,349,3,"""Derrame de agua desmineralizada en sala de bombas""",0,5643.15,1
+14,2022-06-27,Mayor,6,390,1,"""Fallo catastrófico en sistema de contención""",1,21154.07,0
+15,2024-10-14,Sobrecalentamiento,3,748,4,"""Sobrecalentamiento por fallo de ventilación""",0,103622.81,1
+16,2021-12-06,Mayor,6,301,1,"""Evento mayor con activación de protocolo de emergencia""",1,32833.39,0
+17,2020-06-15,Error_Operador,5,72,1,"""Operador omitió paso de protocolo de enfriamiento""",1,895136.99,1
+18,2020-08-31,Alarma_Falsa,0,104,4,"""Interferencia electromagnética en panel""",0,2945.82,1
+19,2022-05-02,Alarma_Falsa,1,364,1,"""Sensor defectuoso activó alarma sin causa real""",0,14392.98,1
+20,2021-02-15,Alarma_Falsa,0,176,2,"""Falsa alarma por prueba no notificada""",0,6103.89,1
+21,2024-03-11,Sobrecalentamiento,3,656,1,"""Exceso de temperatura en barras de combustible""",0,105694.97,1
+22,2020-03-16,Alarma_Falsa,0,33,1,"""Interferencia electromagnética en panel""",0,3808.15,1
+23,2022-01-24,Fuga,3,323,4,"""Fuga menor de refrigerante en circuito primario""",0,115543.87,1
+24,2020-11-30,Fallo_Mecanico,3,143,1,"""Falla en bomba de circulación secundaria""",0,124498.9,1
+25,2022-08-15,Fallo_Mecanico,3,409,4,"""Rotura de válvula de control de presión""",0,71932.08,1
+26,2024-12-09,Mayor,7,774,2,"""Fallo catastrófico en sistema de contención""",1,2694426.4,0
+27,2022-10-10,Sobrecalentamiento,2,433,3,"""Exceso de temperatura en barras de combustible""",0,17858.75,1
+28,2023-08-14,Fallo_Mecanico,3,567,2,"""Falla en bomba de circulación secundaria""",0,118028.34,1
+29,2024-03-11,Fuga,3,657,3,"""Derrame de agua desmineralizada en sala de bombas""",0,61155.22,1
+30,2024-09-23,Fallo_Mecanico,3,740,1,"""Mal funcionamiento del sistema SCRAM""",0,76338.91,1
+31,2020-09-14,Fallo_Mecanico,2,109,2,"""Mal funcionamiento del sistema SCRAM""",0,28430.02,1
+32,2024-12-30,Alarma_Falsa,0,781,1,"""Sensor defectuoso activó alarma sin causa real""",0,4775.65,1
+33,2023-03-13,Alarma_Falsa,0,501,2,"""Sensor defectuoso activó alarma sin causa real""",0,1783.07,1
+34,2021-08-02,Fallo_Mecanico,3,247,1,"""Mal funcionamiento del sistema SCRAM""",0,144694.94,1
+35,2024-12-23,Fuga,2,779,4,"""Fuga de boro líquido contenida en nivel 2""",0,49462.55,1
+36,2021-02-01,Fuga,2,170,4,"""Derrame de agua desmineralizada en sala de bombas""",0,38745.32,1
+37,2024-07-08,Alarma_Falsa,0,707,4,"""Sensor defectuoso activó alarma sin causa real""",0,5990.64,1
+38,2023-05-22,Fallo_Mecanico,3,530,2,"""Rotura de válvula de control de presión""",0,62100.42,1
+39,2023-08-21,Sobrecalentamiento,3,568,1,"""Temperatura del núcleo superó umbral operativo""",0,108844.01,1
+40,2021-07-05,Fuga,3,235,2,"""Fuga menor de refrigerante en circuito primario""",0,140542.0,1
+41,2021-11-01,Error_Operador,3,286,2,"""Homer se durmió durante turno crítico""",0,98541.45,1
+42,2023-02-06,Fallo_Mecanico,3,485,1,"""Rotura de válvula de control de presión""",0,69040.99,1
+43,2022-09-12,Fuga,2,421,2,"""Derrame de agua desmineralizada en sala de bombas""",0,53872.65,1
+44,2020-08-24,Fuga,3,101,5,"""Fuga menor de refrigerante en circuito primario""",0,90262.13,1
+45,2021-03-29,Sobrecalentamiento,2,195,1,"""Exceso de temperatura en barras de combustible""",0,35187.61,1
+46,2020-06-29,Fallo_Mecanico,3,78,2,"""Rotura de válvula de control de presión""",0,130802.22,1
+47,2023-07-17,Error_Operador,3,554,1,"""Operador omitió paso de protocolo de enfriamiento""",0,146899.63,1
+48,2023-03-06,Error_Operador,3,498,1,"""Configuración incorrecta de parámetros de control""",0,71374.73,1
+49,2020-01-06,Fallo_Mecanico,2,3,1,"""Rotura de válvula de control de presión""",0,26934.14,1
+50,2024-07-22,Alarma_Falsa,1,714,1,"""Falsa alarma por prueba no notificada""",0,19922.19,1
+51,2021-12-13,Alarma_Falsa,1,304,1,"""Sensor defectuoso activó alarma sin causa real""",0,19468.06,1
+52,2020-05-18,Alarma_Falsa,0,59,3,"""Sensor defectuoso activó alarma sin causa real""",0,5089.24,1
+53,2023-05-01,Fallo_Mecanico,2,521,1,"""Falla en bomba de circulación secundaria""",0,53310.41,1
+54,2021-07-19,Fuga,1,241,3,"""Derrame de agua desmineralizada en sala de bombas""",0,5038.07,1
+55,2020-04-06,Error_Operador,3,41,2,"""Homer se durmió durante turno crítico""",0,58198.34,1
+56,2021-05-03,Alarma_Falsa,1,210,4,"""Falsa alarma por prueba no notificada""",0,15175.26,1
+57,2024-03-25,Sobrecalentamiento,3,661,1,"""Sobrecalentamiento por fallo de ventilación""",0,95722.46,1
+58,2024-01-29,Error_Operador,3,637,1,"""Homer se durmió durante turno crítico""",0,149609.64,1
+59,2020-11-16,Fuga,1,136,2,"""Derrame de agua desmineralizada en sala de bombas""",0,17974.69,1
+60,2022-11-14,Error_Operador,4,449,1,"""Homer se durmió durante turno crítico""",1,311061.98,1
+61,2021-12-20,Alarma_Falsa,0,307,3,"""Falsa alarma por prueba no notificada""",0,1725.11,1
+62,2020-09-14,Error_Operador,4,110,1,"""Homer se durmió durante turno crítico""",1,265967.09,1
+63,2022-04-04,Sobrecalentamiento,4,352,1,"""Temperatura del núcleo superó umbral operativo""",1,306249.14,1
+64,2020-05-04,Error_Operador,5,53,2,"""Operador omitió paso de protocolo de enfriamiento""",1,870856.0,1
+65,2020-11-09,Error_Operador,3,134,1,"""Homer se durmió durante turno crítico""",0,147979.8,1
+66,2022-10-17,Sobrecalentamiento,3,438,2,"""Exceso de temperatura en barras de combustible""",0,50966.97,1
+67,2023-07-31,Fuga,3,559,4,"""Fuga menor de refrigerante en circuito primario""",0,133459.5,1
+68,2020-04-13,Alarma_Falsa,0,43,2,"""Interferencia electromagnética en panel""",0,3552.56,1
+69,2021-05-17,Error_Operador,3,216,4,"""Homer se durmió durante turno crítico""",0,74952.97,1
+70,2022-08-29,Fuga,3,417,4,"""Fuga de boro líquido contenida en nivel 2""",0,124947.76,1
+71,2021-03-01,Error_Operador,3,182,4,"""Configuración incorrecta de parámetros de control""",0,52478.64,1
+72,2022-09-12,Alarma_Falsa,1,422,3,"""Falsa alarma por prueba no notificada""",0,17689.09,1
+73,2024-08-05,Error_Operador,4,719,1,"""Operador omitió paso de protocolo de enfriamiento""",1,214762.52,1
+74,2023-01-09,Fuga,2,472,1,"""Derrame de agua desmineralizada en sala de bombas""",0,28733.59,1
+75,2024-04-29,Alarma_Falsa,0,676,1,"""Sensor defectuoso activó alarma sin causa real""",0,3789.26,1
+76,2022-04-18,Sobrecalentamiento,2,360,5,"""Exceso de temperatura en barras de combustible""",0,37923.26,1
+77,2020-10-05,Alarma_Falsa,1,119,4,"""Interferencia electromagnética en panel""",0,6035.65,1
+78,2023-11-27,Mayor,6,611,1,"""Pérdida de refrigerante primario con liberación parcial""",1,20555.92,0
+79,2023-05-08,Alarma_Falsa,1,524,2,"""Sensor defectuoso activó alarma sin causa real""",0,9548.32,1
+80,2022-11-07,Alarma_Falsa,1,447,1,"""Sensor defectuoso activó alarma sin causa real""",0,11838.65,1
