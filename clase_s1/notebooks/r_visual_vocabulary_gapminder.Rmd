@@ -1,0 +1,430 @@
+---
+title: "S1 · Visualizacion con R sobre un mismo dataset"
+output: html_notebook
+---
+
+# Idea de la sesion
+
+Este notebook esta pensado para clase.
+
+La logica es:
+
+- cargamos un solo dataset
+- planteamos una sola historia
+- resolvemos varias preguntas visuales
+- comparamos como se ve en distintos enfoques de R
+- despues conectamos eso con Shiny
+
+---
+
+# 1. Cargar librerias y dataset
+
+## Que hace este bloque
+
+Primero cargamos las librerias que vamos a usar.
+
+- `ggplot2`: para graficos por capas
+- `dplyr`: para filtrar y transformar datos
+- `gapminder`: para traer el dataset
+- `plotly`: para graficos interactivos
+- `scales`: para mejorar etiquetas numericas
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(gapminder)
+library(plotly)
+library(scales)
+```
+
+## Dato principal
+
+Aqui guardamos el dataset completo en `df`.
+
+`df` sera la tabla base de toda la clase.
+
+```{r}
+df <- gapminder
+head(df)
+```
+
+## Que revisar aqui
+
+Estas lineas ayudan a entender:
+- cuantas filas hay
+- cuantas columnas hay
+- como se llaman las variables
+
+```{r}
+dim(df)
+names(df)
+```
+
+---
+
+# 2. Contexto del caso
+
+## Pregunta general
+
+> Como ha cambiado el desarrollo humano entre 1952 y 2007, que regiones avanzan mas lento y donde deberiamos mirar primero?
+
+Para varias preguntas vamos a usar una fotografia del ano 2007.
+
+## Que hace este bloque
+
+- `year_selected` guarda el ano elegido
+- `df_2007` crea una nueva tabla solo con ese ano
+
+```{r}
+year_selected <- 2007
+df_2007 <- df %>% filter(year == year_selected)
+head(df_2007)
+```
+
+## Que significa
+
+- `df` = todos los anos
+- `df_2007` = solo el ano 2007
+
+Eso permite comparar paises en un mismo momento.
+
+---
+
+# 3. Correlation
+
+## Pregunta visual
+
+> Hay relacion entre PIB per capita y esperanza de vida?
+
+## Por que este grafico
+
+Cuando quieres comparar dos variables numericas, el grafico mas natural es un `scatter plot`.
+
+## Base R
+
+### Que hace este codigo
+
+- `df_2007$gdpPercap` va en el eje X
+- `df_2007$lifeExp` va en el eje Y
+- `log = "x"` pone el eje X en escala logaritmica
+- `col` cambia el color
+- `pch = 19` cambia la forma del punto
+- `main`, `xlab`, `ylab` cambian titulos y etiquetas
+
+```{r}
+plot(
+  df_2007$gdpPercap,
+  df_2007$lifeExp,
+  log = "x",
+  col = "steelblue",
+  pch = 19,
+  main = "Correlation · Base R",
+  xlab = "PIB per capita (log)",
+  ylab = "Esperanza de vida"
+)
+```
+
+## ggplot2
+
+### Que hace este codigo
+
+- `ggplot(df_2007, aes(...))` conecta datos con atributos visuales
+- `x = gdpPercap` define el eje horizontal
+- `y = lifeExp` define el eje vertical
+- `color = continent` pinta por continente
+- `size = pop` usa tamano segun poblacion
+- `geom_point()` dibuja puntos
+- `alpha` controla transparencia
+
+```{r}
+ggplot(df_2007, aes(x = gdpPercap, y = lifeExp, color = continent, size = pop)) +
+  geom_point(alpha = 0.7) +
+  scale_x_log10(labels = dollar) +
+  scale_size(range = c(2, 12), guide = "none") +
+  labs(
+    title = "Correlation · ggplot2",
+    x = "PIB per capita (USD, escala log)",
+    y = "Esperanza de vida"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+## Plotly
+
+### Que hace este codigo
+
+- `plot_ly()` crea un grafico interactivo
+- `color = ~continent` pinta por categoria
+- `size = ~pop` cambia el tamano
+- `text = ~country` agrega informacion al hover
+
+```{r}
+plot_ly(
+  data = df_2007,
+  x = ~gdpPercap,
+  y = ~lifeExp,
+  type = "scatter",
+  mode = "markers",
+  color = ~continent,
+  size = ~pop,
+  text = ~country
+) %>%
+  layout(
+    title = "Correlation · Plotly",
+    xaxis = list(title = "PIB per capita", type = "log"),
+    yaxis = list(title = "Esperanza de vida")
+  )
+```
+
+## Que pueden cambiar aqui
+
+- color del grafico
+- titulo
+- variable del eje X
+- variable del eje Y
+
+---
+
+# 4. Ranking
+
+## Pregunta visual
+
+> Que paises estan arriba y abajo en esperanza de vida?
+
+## Preparacion de datos
+
+### Que hace este bloque
+
+- `select(country, lifeExp)` deja solo dos columnas
+- `arrange(desc(lifeExp))` ordena de mayor a menor
+- `slice_head(n = 15)` se queda con el top 15
+
+```{r}
+ranking <- df_2007 %>%
+  select(country, lifeExp) %>%
+  arrange(desc(lifeExp)) %>%
+  slice_head(n = 15)
+
+ranking
+```
+
+## Base R
+
+### Que hace este codigo
+
+- `ranking_sorted` reordena para que la barra horizontal se lea mejor
+- `barplot(..., horiz = TRUE)` crea barras horizontales
+- `las = 1` mejora lectura de etiquetas
+
+```{r}
+ranking_sorted <- ranking %>% arrange(lifeExp)
+
+barplot(
+  ranking_sorted$lifeExp,
+  names.arg = ranking_sorted$country,
+  horiz = TRUE,
+  las = 1,
+  col = "darkcyan",
+  main = "Ranking · Base R",
+  xlab = "Esperanza de vida"
+)
+```
+
+## ggplot2
+
+```{r}
+ggplot(ranking_sorted, aes(x = reorder(country, lifeExp), y = lifeExp)) +
+  geom_col(fill = "#2F8373") +
+  coord_flip() +
+  labs(
+    title = "Ranking · ggplot2",
+    x = "Pais",
+    y = "Esperanza de vida"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+## Plotly
+
+```{r}
+plot_ly(
+  data = ranking_sorted,
+  x = ~lifeExp,
+  y = ~country,
+  type = "bar",
+  orientation = "h"
+) %>%
+  layout(
+    title = "Ranking · Plotly",
+    xaxis = list(title = "Esperanza de vida"),
+    yaxis = list(title = "Pais")
+  )
+```
+
+## Que pueden cambiar aqui
+
+- usar `gdpPercap` en vez de `lifeExp`
+- cambiar color
+- cambiar top 15 por top 10
+
+---
+
+# 5. Distribution
+
+## Pregunta visual
+
+> Como se distribuye la esperanza de vida? Hay diferencias por continente?
+
+## Base R
+
+### Que hace este codigo
+
+- `hist()` crea un histograma
+- `breaks = 20` controla el numero de intervalos
+- `col` cambia el relleno
+- `border` cambia el borde
+
+```{r}
+hist(
+  df_2007$lifeExp,
+  breaks = 20,
+  col = "tomato",
+  border = "white",
+  main = "Distribution · Base R",
+  xlab = "Esperanza de vida"
+)
+```
+
+## ggplot2
+
+### Que hace este codigo
+
+- compara distribucion por continente
+- `fill = continent` usa color por grupo
+- `geom_boxplot()` resume mediana, rango y outliers
+
+```{r}
+ggplot(df_2007, aes(x = continent, y = lifeExp, fill = continent)) +
+  geom_boxplot(show.legend = FALSE, alpha = 0.8) +
+  labs(
+    title = "Distribution · ggplot2",
+    x = "Continente",
+    y = "Esperanza de vida"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+## Plotly
+
+```{r}
+plot_ly(
+  data = df_2007,
+  x = ~lifeExp,
+  color = ~continent,
+  type = "histogram"
+) %>%
+  layout(
+    title = "Distribution · Plotly",
+    xaxis = list(title = "Esperanza de vida"),
+    yaxis = list(title = "Frecuencia")
+  )
+```
+
+---
+
+# 6. Change over Time
+
+## Pregunta visual
+
+> Como ha cambiado la esperanza de vida promedio por continente entre 1952 y 2007?
+
+## Preparacion de datos
+
+### Que hace este bloque
+
+- agrupa por `year` y `continent`
+- calcula el promedio de `lifeExp`
+
+```{r}
+serie_tiempo <- df %>%
+  group_by(year, continent) %>%
+  summarise(lifeExp = mean(lifeExp), .groups = "drop")
+
+head(serie_tiempo)
+```
+
+## Base R
+
+```{r}
+continentes <- unique(serie_tiempo$continent)
+colores <- c("red", "blue", "darkgreen", "orange", "purple")
+
+plot(
+  NULL,
+  xlim = range(serie_tiempo$year),
+  ylim = range(serie_tiempo$lifeExp),
+  xlab = "Ano",
+  ylab = "Esperanza de vida promedio",
+  main = "Change over Time · Base R"
+)
+
+for (i in seq_along(continentes)) {
+  temp <- serie_tiempo %>% filter(continent == continentes[i])
+  lines(temp$year, temp$lifeExp, col = colores[i], lwd = 2)
+  points(temp$year, temp$lifeExp, col = colores[i], pch = 16)
+}
+
+legend("topleft", legend = continentes, col = colores, lty = 1, lwd = 2, bty = "n")
+```
+
+## ggplot2
+
+```{r}
+ggplot(serie_tiempo, aes(x = year, y = lifeExp, color = continent)) +
+  geom_line(linewidth = 1.2) +
+  geom_point(size = 2) +
+  labs(
+    title = "Change over Time · ggplot2",
+    x = "Ano",
+    y = "Esperanza de vida promedio"
+  ) +
+  theme_minimal(base_size = 14)
+```
+
+## Plotly
+
+```{r}
+plot_ly(
+  data = serie_tiempo,
+  x = ~year,
+  y = ~lifeExp,
+  color = ~continent,
+  type = "scatter",
+  mode = "lines+markers"
+) %>%
+  layout(
+    title = "Change over Time · Plotly",
+    xaxis = list(title = "Ano"),
+    yaxis = list(title = "Esperanza de vida promedio")
+  )
+```
+
+---
+
+# 7. Puente hacia Shiny
+
+Hasta aqui vimos graficos sueltos.
+
+El siguiente paso natural es:
+
+- dejar que el usuario cambie filtros
+- recalcular automaticamente
+- mostrar resultados en una app
+
+Eso es exactamente lo que hace Shiny.
+
+## Frase docente sugerida
+
+`Con R Markdown pensamos y comparamos.`
+
+`Con Shiny envolvemos ese analisis en una app.`
