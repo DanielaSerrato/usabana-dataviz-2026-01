@@ -1,0 +1,21 @@
+﻿id_empleado,nombre,turno,rol,departamento,nivel_seguridad,fecha_ingreso,salario,id_supervisor
+1,Montgomery Burns,Rotativo,Director General,Gerencia,5,1957-04-01,280000.0,
+2,Waylon Smithers,Mañana,Asistente Ejecutivo,Gerencia,4,1982-06-10,95000.0,1
+3,Homer Simpson,Mañana,Técnico de Seguridad,Operaciones,2,1989-11-01,52000.0,7
+4,Lenny Leonard,Tarde,Técnico de Planta,Operaciones,2,1991-03-15,49500.0,7
+5,Carl Carlson,Noche,Técnico Senior,Operaciones,3,1990-07-22,54000.0,7
+6,Frank Grimes,Mañana,Ingeniero Eléctrico,Ingeniería,3,1997-08-10,58000.0,7
+7,Hank Scorpio,Rotativo,Gerente de Operaciones,Operaciones,4,1996-01-05,120000.0,1
+8,Mindy Simmons,Mañana,Ingeniera Nuclear,Ingeniería,4,1994-02-28,75000.0,7
+9,Norm Peterson,Tarde,Supervisor de Turno,Operaciones,3,1993-09-01,62000.0,7
+10,Patty Bouvier,Mañana,Inspectora de Seguridad,Seguridad,4,1995-04-17,68000.0,1
+11,Sideshow Bob,Noche,Consultor Externo,Consultoría,2,2022-01-15,40000.0,2
+12,Hans Moleman,Mañana,Auxiliar de Mantenimiento,Mantenimiento,1,1988-05-30,35000.0,7
+13,Gil Gunderson,Tarde,Vendedor de Materiales,Suministros,1,2020-10-01,31000.0,2
+14,Disco Stu,Noche,Operador de Sala,Operaciones,2,2018-06-06,45000.0,9
+15,Apu Nahasapeemapetilon,Tarde,Proveedor de Donuts,Suministros,1,2019-03-22,29000.0,2
+16,Barney Gumble,Noche,Técnico de Planta,Operaciones,1,2021-08-10,41000.0,7
+17,Nelson Muntz,Mañana,Aprendiz Técnico,Operaciones,1,2023-06-01,28000.0,9
+18,Professor Frink,Mañana,Científico Jefe,Investigación,5,2015-03-20,98000.0,1
+19,Edna Krabappel,Tarde,Coordinadora de Seguridad,Seguridad,3,2016-09-01,61000.0,10
+20,Otto Mann,Noche,Operador de Transporte,Logística,1,2020-05-15,36000.0,7

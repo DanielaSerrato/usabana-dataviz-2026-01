@@ -1,0 +1,11 @@
+﻿id_material,nombre,tipo,nivel_peligro,unidad_medida,id_proveedor,vida_util_dias,requiere_licencia
+1,Uranio Enriquecido U-235,Combustible,5,kg,1,1825,True
+2,Barras Combustible MOX,Combustible,4,unidad,3,730,True
+3,Agua Desmineralizada,Refrigerante,1,litros,2,365,False
+4,Agua Pesada D2O,Refrigerante,2,litros,4,365,True
+5,Residuo Radiactivo Tipo A,Residuo,5,barriles,,36500,True
+6,Residuo Radiactivo Tipo B,Residuo,4,barriles,,36500,True
+7,Boro Líquido,Control,3,litros,6,180,True
+8,Grafito Moderador,Moderador,2,kg,10,1095,True
+9,Aceite Lubricante Nuclear,Lubricante,2,litros,9,90,False
+10,Donuts (bienestar operador),Bienestar,1,unidad,8,1,False

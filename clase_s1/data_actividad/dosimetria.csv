@@ -1,0 +1,301 @@
+﻿id_empleado,id_turno,id_reactor,radiacion_msv,acumulado_anual,zona,equipo_proteccion,alerta_limite
+12,612,2,0.0128,0.0128,Planta Principal,Completo,0
+14,612,2,0.0114,0.0114,Zona Caliente,Básico,0
+3,612,3,0.0348,0.0348,Zona Técnica,Ninguno,0
+9,59,2,0.0086,0.0086,Zona Caliente,Máximo,0
+8,180,2,0.0101,0.0101,Reactor Core,Completo,0
+6,656,4,5.7541,5.7541,Zona Caliente,Completo,0
+12,656,2,0.0152,0.0152,Mantenimiento,Completo,0
+4,507,4,3.9153,3.9153,Perímetro,Máximo,0
+6,450,4,3.4089,3.4089,Sala Control,Completo,0
+5,450,1,0.0175,0.0175,Perímetro,Completo,0
+16,11,4,3.9572,3.9572,Zona Técnica,Completo,0
+18,11,1,0.0096,0.0096,Planta Principal,Básico,0
+9,11,4,4.3737,4.3823,Reactor Core,Completo,0
+9,207,2,0.0138,0.0138,Zona Caliente,Completo,0
+8,207,1,0.0162,0.0263,Zona Técnica,Básico,0
+18,207,1,0.0142,0.0142,Planta Principal,Completo,0
+9,673,3,0.0362,0.0362,Sala Control,Completo,0
+18,673,2,0.0123,0.0123,Planta Principal,Completo,0
+9,531,2,0.0104,0.0104,Sala Control,Completo,0
+5,293,2,0.0125,0.0125,Mantenimiento,Completo,0
+18,200,1,0.0162,0.0304,Zona Caliente,Completo,0
+12,200,4,3.2693,3.2693,Planta Principal,Completo,0
+3,35,1,0.0154,0.0154,Mantenimiento,Básico,0
+4,614,2,0.0149,3.9302,Reactor Core,Básico,0
+6,614,2,0.0103,0.0103,Perímetro,Básico,0
+5,614,5,0.0055,0.0055,Sala Control,Básico,0
+12,523,1,0.014,0.0268,Planta Principal,Completo,0
+8,523,2,0.0073,0.0073,Zona Caliente,Básico,0
+6,523,4,3.4284,3.4387,Perímetro,Completo,0
+8,529,1,0.0131,0.0204,Zona Técnica,Máximo,0
+16,529,3,0.034,0.034,Zona Técnica,Completo,0
+14,529,2,0.0115,0.0229,Zona Caliente,Completo,0
+16,716,4,2.7496,2.7496,Zona Caliente,Completo,0
+6,716,1,0.013,5.7671,Perímetro,Ninguno,0
+9,238,1,0.0145,0.0283,Reactor Core,Completo,0
+8,630,4,4.1716,4.1716,Perímetro,Máximo,0
+3,630,1,0.0201,0.0201,Zona Técnica,Básico,0
+12,174,1,0.0117,3.281,Reactor Core,Completo,0
+6,174,1,0.0139,0.0139,Zona Técnica,Básico,0
+8,691,2,0.0085,4.1801,Zona Caliente,Máximo,0
+18,691,1,0.0123,0.0246,Mantenimiento,Completo,0
+16,691,3,0.0204,2.77,Sala Control,Básico,0
+3,37,1,0.0209,0.0363,Sala Control,Ninguno,0
+5,37,1,0.0127,0.0127,Zona Caliente,Básico,0
+4,37,2,0.0112,0.0112,Zona Caliente,Máximo,0
+3,369,1,0.0123,0.0123,Zona Caliente,Completo,0
+9,369,4,3.3914,3.3914,Planta Principal,Básico,0
+12,245,1,0.0104,3.2914,Perímetro,Completo,0
+3,245,5,0.0149,0.0149,Planta Principal,Básico,0
+4,671,3,0.0286,0.0286,Zona Caliente,Básico,0
+16,671,5,0.0059,2.7759,Mantenimiento,Básico,0
+16,1,2,0.01,3.9672,Sala Control,Completo,0
+4,1,4,1.1945,1.2057,Mantenimiento,Básico,0
+8,1,2,0.0137,0.0137,Zona Técnica,Ninguno,0
+12,162,4,0.7583,4.0497,Perímetro,Ninguno,0
+14,89,4,3.5745,3.5745,Mantenimiento,Completo,0
+5,89,3,0.0419,0.0546,Mantenimiento,Máximo,0
+9,89,1,0.0095,4.3918,Zona Técnica,Completo,0
+5,283,2,0.0117,0.0242,Mantenimiento,Completo,0
+14,410,1,0.0149,0.0149,Zona Caliente,Completo,0
+6,410,4,3.1906,6.5995,Zona Caliente,Completo,0
+14,362,2,0.0109,0.0258,Perímetro,Completo,0
+6,362,4,3.9103,10.5098,Sala Control,Máximo,0
+5,362,2,0.0139,0.0314,Zona Técnica,Completo,0
+14,686,4,5.012,5.012,Sala Control,Completo,0
+3,686,3,0.0634,0.0835,Zona Caliente,Básico,0
+4,405,1,0.0153,0.0153,Planta Principal,Completo,0
+16,405,3,0.0341,0.0341,Sala Control,Completo,0
+12,405,1,0.0084,0.0084,Planta Principal,Completo,0
+3,416,1,0.0109,0.0232,Zona Técnica,Básico,0
+12,601,1,0.0148,0.0416,Sala Control,Completo,0
+14,601,5,0.005,0.0279,Perímetro,Básico,0
+8,601,1,0.0086,0.029,Zona Técnica,Máximo,0
+12,206,4,0.75,4.7997,Sala Control,Completo,0
+9,206,4,1.8278,1.8561,Zona Técnica,Básico,0
+3,206,1,0.0237,0.0386,Planta Principal,Completo,0
+16,774,3,0.0408,2.8167,Zona Técnica,Completo,0
+16,16,4,4.6481,8.6153,Mantenimiento,Completo,0
+12,16,3,0.0237,0.0237,Planta Principal,Máximo,0
+4,16,2,0.0125,1.2182,Zona Técnica,Completo,0
+14,721,3,0.0386,5.0506,Reactor Core,Máximo,0
+9,721,4,4.9641,5.0003,Zona Técnica,Completo,0
+16,721,1,0.0116,2.8283,Zona Técnica,Completo,0
+8,71,2,0.0131,0.0268,Zona Caliente,Completo,0
+9,71,3,0.0419,4.4337,Zona Caliente,Completo,0
+14,71,1,0.01,3.5845,Zona Caliente,Máximo,0
+8,93,5,0.0053,0.0321,Zona Técnica,Completo,0
+4,563,1,0.0093,3.9395,Zona Caliente,Completo,0
+6,292,4,2.9588,2.9727,Planta Principal,Básico,0
+18,292,4,5.3764,5.4068,Planta Principal,Completo,0
+8,292,2,0.0129,0.0392,Perímetro,Máximo,0
+18,573,3,0.0378,0.0378,Reactor Core,Básico,0
+3,597,5,0.0136,0.0484,Reactor Core,Básico,0
+4,357,4,6.2112,6.2265,Mantenimiento,Máximo,0
+6,357,4,2.3744,12.8842,Sala Control,Completo,0
+16,356,2,0.0083,0.0424,Mantenimiento,Completo,0
+5,356,4,3.2405,3.2719,Zona Técnica,Completo,0
+16,284,2,0.0082,0.0082,Zona Caliente,Máximo,0
+4,284,1,0.0085,0.0085,Reactor Core,Completo,0
+6,284,1,0.0121,2.9848,Mantenimiento,Completo,0
+5,232,2,0.0103,0.0345,Zona Técnica,Básico,0
+16,621,3,0.0254,0.0594,Sala Control,Completo,0
+12,772,3,0.0225,0.0377,Reactor Core,Completo,0
+9,772,2,0.0097,5.01,Zona Técnica,Completo,0
+3,466,5,0.0149,0.0381,Reactor Core,Completo,0
+8,466,3,0.0403,0.0403,Planta Principal,Completo,0
+5,466,1,0.0152,3.2871,Perímetro,Completo,0
+4,414,4,4.3192,10.5457,Planta Principal,Completo,0
+3,589,3,0.0515,0.0999,Sala Control,Ninguno,0
+9,589,2,0.0088,0.0192,Zona Técnica,Completo,0
+8,5,3,0.0353,0.0674,Mantenimiento,Máximo,0
+16,5,1,0.0143,8.6296,Sala Control,Completo,0
+14,5,1,0.0099,3.5944,Mantenimiento,Básico,0
+8,268,3,0.0286,0.0678,Zona Caliente,Ninguno,0
+3,268,3,0.0452,0.0838,Sala Control,Máximo,0
+14,268,1,0.0142,0.0142,Planta Principal,Máximo,0
+16,781,5,0.0054,2.8337,Sala Control,Completo,0
+4,781,1,0.0124,0.041,Mantenimiento,Completo,0
+3,417,1,0.0178,0.0559,Reactor Core,Básico,0
+5,519,3,0.0267,0.0322,Zona Técnica,Completo,0
+3,519,1,0.0156,0.1155,Reactor Core,Ninguno,0
+9,519,4,0.6812,0.7004,Zona Técnica,Máximo,0
+6,110,2,0.0082,0.0082,Mantenimiento,Completo,0
+5,110,2,0.0121,0.0667,Mantenimiento,Máximo,0
+6,740,3,0.0269,5.794,Zona Técnica,Completo,0
+12,740,2,0.0087,0.0464,Planta Principal,Completo,0
+18,740,3,0.0245,0.0491,Planta Principal,Completo,0
+16,75,2,0.0135,8.6431,Mantenimiento,Máximo,0
+5,75,5,0.0043,0.071,Zona Técnica,Máximo,0
+4,516,4,0.6813,4.6208,Zona Caliente,Básico,0
+5,516,4,3.0292,3.0614,Reactor Core,Completo,0
+9,516,4,4.4166,5.117,Mantenimiento,Máximo,0
+5,302,1,0.0152,0.0497,Zona Técnica,Básico,0
+6,302,3,0.0335,3.0183,Zona Técnica,Completo,0
+6,349,3,0.0351,12.9193,Reactor Core,Completo,0
+16,120,4,4.4948,13.1379,Planta Principal,Completo,0
+14,526,1,0.0083,0.0362,Perímetro,Básico,0
+18,526,5,0.0068,0.0446,Planta Principal,Máximo,0
+6,264,1,0.0122,3.0305,Zona Técnica,Máximo,0
+18,264,2,0.0108,5.4176,Planta Principal,Completo,0
+4,264,2,0.0121,0.0206,Perímetro,Máximo,0
+9,551,3,0.0331,5.1501,Zona Técnica,Completo,0
+12,551,3,0.0208,0.0624,Sala Control,Completo,0
+14,730,4,3.8079,8.8585,Mantenimiento,Completo,0
+3,730,1,0.0306,0.1141,Sala Control,Básico,0
+8,257,2,0.0135,0.0813,Zona Caliente,Máximo,0
+5,711,1,0.0146,0.0146,Planta Principal,Máximo,0
+12,711,2,0.0078,0.0542,Zona Técnica,Completo,0
+5,454,4,4.7811,8.0682,Planta Principal,Máximo,0
+12,387,2,0.012,0.0204,Mantenimiento,Básico,0
+9,387,4,1.0546,4.446,Zona Caliente,Máximo,0
+5,577,1,0.0114,3.0728,Zona Técnica,Completo,0
+4,577,4,6.4974,11.1182,Zona Técnica,Completo,0
+16,577,5,0.0045,0.0639,Perímetro,Completo,0
+9,496,3,0.0233,5.1734,Perímetro,Completo,0
+5,250,4,2.3946,2.4443,Mantenimiento,Básico,0
+8,348,1,0.0099,0.0502,Zona Técnica,Básico,0
+5,348,4,3.5604,11.6286,Reactor Core,Ninguno,0
+3,470,1,0.0214,0.1369,Reactor Core,Completo,0
+14,470,1,0.0103,0.0465,Zona Técnica,Completo,0
+6,470,1,0.0158,3.4545,Planta Principal,Completo,0
+5,698,1,0.0083,0.0229,Perímetro,Completo,0
+18,472,4,6.1604,6.205,Sala Control,Completo,0
+12,749,5,0.0041,0.0583,Mantenimiento,Básico,0
+18,29,5,0.0044,0.014,Sala Control,Completo,0
+16,29,1,0.0115,13.1494,Reactor Core,Completo,0
+5,29,4,5.6864,5.7574,Sala Control,Completo,0
+14,494,1,0.0111,0.0576,Reactor Core,Máximo,0
+5,494,2,0.0121,3.0849,Sala Control,Completo,0
+16,718,4,5.3473,8.181,Mantenimiento,Completo,0
+4,718,1,0.011,0.052,Zona Técnica,Completo,0
+14,718,3,0.0404,8.8989,Zona Técnica,Completo,0
+14,265,2,0.0121,0.0263,Mantenimiento,Básico,0
+16,265,1,0.0091,0.0173,Reactor Core,Básico,0
+18,265,3,0.0387,5.4563,Perímetro,Básico,0
+12,70,2,0.0124,0.0361,Sala Control,Completo,0
+18,70,3,0.0256,0.0396,Sala Control,Completo,0
+3,70,2,0.0154,0.0517,Sala Control,Básico,0
+9,392,2,0.0122,4.4582,Sala Control,Completo,0
+6,649,2,0.0126,5.8066,Reactor Core,Completo,0
+5,226,2,0.0145,2.4588,Zona Técnica,Completo,0
+14,236,5,0.0051,0.0314,Zona Técnica,Básico,0
+12,236,4,3.7957,8.5954,Planta Principal,Completo,0
+9,324,5,0.0031,4.4613,Reactor Core,Completo,0
+18,324,3,0.0326,0.0326,Reactor Core,Máximo,0
+4,324,1,0.0154,10.5611,Zona Caliente,Básico,0
+9,423,2,0.009,4.4703,Reactor Core,Completo,0
+3,423,4,7.7201,7.776,Planta Principal,Básico,0
+8,423,1,0.0154,0.0656,Sala Control,Máximo,0
+16,753,4,1.4476,9.6286,Zona Caliente,Máximo,0
+3,753,5,0.0093,0.1234,Perímetro,Completo,0
+5,768,4,4.6618,4.6847,Planta Principal,Máximo,0
+4,768,1,0.0117,0.0637,Perímetro,Básico,0
+4,549,5,0.0054,11.1236,Sala Control,Completo,0
+3,549,2,0.0097,0.1466,Perímetro,Completo,0
+8,549,3,0.0327,0.0617,Zona Caliente,Completo,0
+6,10,1,0.011,0.0192,Reactor Core,Completo,0
+9,10,3,0.0235,4.4572,Sala Control,Completo,0
+18,10,1,0.0129,0.0525,Planta Principal,Completo,0
+9,270,1,0.0156,1.8717,Zona Técnica,Máximo,0
+16,270,1,0.0138,0.0311,Zona Caliente,Básico,0
+18,270,2,0.0072,5.4635,Mantenimiento,Básico,0
+4,255,2,0.0103,0.0309,Mantenimiento,Básico,0
+18,295,2,0.013,5.4765,Mantenimiento,Máximo,0
+14,295,4,6.1751,6.2065,Perímetro,Básico,0
+9,295,2,0.0138,1.8855,Mantenimiento,Básico,0
+4,96,2,0.0134,1.2316,Reactor Core,Completo,0
+14,96,1,0.0162,3.6106,Zona Técnica,Completo,0
+9,409,1,0.0111,4.4814,Perímetro,Máximo,0
+12,409,4,0.6861,0.7065,Reactor Core,Completo,0
+9,351,2,0.0094,4.4908,Zona Caliente,Máximo,0
+18,78,2,0.0079,0.0604,Zona Técnica,Completo,0
+5,78,3,0.0317,5.7891,Reactor Core,Máximo,0
+4,78,3,0.0254,1.257,Planta Principal,Completo,0
+12,568,2,0.012,0.0744,Perímetro,Máximo,0
+4,568,5,0.0044,11.128,Mantenimiento,Completo,0
+5,183,3,0.0405,2.4993,Zona Técnica,Básico,0
+4,488,2,0.0107,11.1387,Zona Caliente,Básico,0
+14,488,5,0.0034,0.061,Perímetro,Básico,0
+12,322,3,0.0248,0.7313,Planta Principal,Básico,0
+9,322,4,4.4122,8.903,Sala Control,Máximo,0
+14,322,4,3.2858,3.3116,Zona Caliente,Completo,0
+18,363,1,0.011,0.0436,Zona Técnica,Completo,0
+14,363,4,6.1488,9.4604,Reactor Core,Completo,0
+9,224,3,0.0386,1.9241,Perímetro,Completo,0
+4,224,1,0.0132,0.0441,Sala Control,Completo,0
+3,224,1,0.0369,0.1207,Sala Control,Básico,0
+3,588,2,0.0233,0.1699,Mantenimiento,Básico,0
+6,588,2,0.0116,3.4661,Mantenimiento,Completo,0
+14,276,1,0.016,6.2225,Zona Caliente,Completo,0
+5,188,5,0.0035,2.5028,Sala Control,Completo,0
+8,188,3,0.0395,0.1208,Mantenimiento,Básico,0
+5,195,1,0.0162,2.519,Perímetro,Máximo,0
+4,195,3,0.0337,0.0778,Reactor Core,Máximo,0
+12,511,2,0.0106,0.085,Sala Control,Completo,0
+16,511,3,0.0252,0.0891,Zona Técnica,Máximo,0
+14,511,1,0.0135,0.0745,Sala Control,Máximo,0
+18,205,2,0.0119,5.4884,Mantenimiento,Completo,0
+5,241,4,5.785,8.304,Perímetro,Completo,0
+14,248,1,0.0088,6.2313,Reactor Core,Máximo,0
+16,248,3,0.0347,0.0658,Mantenimiento,Completo,0
+16,272,5,0.003,0.0688,Reactor Core,Completo,0
+8,272,2,0.0132,0.134,Reactor Core,Completo,0
+3,272,2,0.0147,0.1354,Planta Principal,Máximo,0
+18,212,4,3.9668,9.4552,Sala Control,Completo,0
+14,235,3,0.0362,6.2675,Sala Control,Completo,0
+5,235,1,0.0128,8.3168,Perímetro,Básico,0
+3,235,4,8.9672,9.1026,Zona Caliente,Básico,0
+3,208,3,0.0717,9.1743,Mantenimiento,Máximo,0
+4,208,2,0.0092,0.087,Mantenimiento,Máximo,0
+14,256,1,0.0083,6.2758,Sala Control,Completo,0
+18,634,5,0.005,0.0541,Reactor Core,Básico,0
+6,365,4,4.0532,16.9725,Perímetro,Básico,0
+14,365,2,0.0133,9.4737,Sala Control,Completo,0
+5,160,2,0.011,8.3278,Perímetro,Completo,0
+6,724,2,0.0143,5.8209,Sala Control,Básico,0
+12,724,1,0.0116,0.0699,Zona Caliente,Máximo,0
+16,724,5,0.0032,9.6318,Zona Técnica,Completo,0
+9,123,2,0.0078,4.465,Mantenimiento,Completo,0
+12,123,3,0.0349,0.071,Planta Principal,Completo,0
+8,123,4,1.6988,1.7662,Zona Caliente,Completo,0
+5,81,3,0.0203,5.8094,Sala Control,Máximo,0
+9,81,2,0.01,4.475,Mantenimiento,Completo,0
+3,81,1,0.0087,0.0604,Sala Control,Ninguno,0
+18,505,3,0.0409,6.2459,Mantenimiento,Máximo,0
+4,629,1,0.0116,0.0753,Perímetro,Completo,0
+18,7,3,0.0303,0.0907,Sala Control,Completo,0
+5,7,3,0.0261,5.8355,Reactor Core,Máximo,0
+4,7,3,0.0369,1.2939,Zona Caliente,Completo,0
+4,555,1,0.0117,11.1504,Sala Control,Básico,0
+8,44,2,0.0148,1.781,Zona Técnica,Completo,0
+5,44,2,0.0079,5.8434,Zona Técnica,Completo,0
+6,700,5,0.0034,5.8243,Sala Control,Completo,0
+4,700,1,0.0154,0.0907,Sala Control,Completo,0
+5,381,5,0.0041,11.6327,Mantenimiento,Completo,0
+3,381,2,0.0071,7.7831,Mantenimiento,Básico,0
+14,636,2,0.0138,8.9127,Sala Control,Completo,0
+12,636,2,0.015,0.0849,Perímetro,Ninguno,0
+4,323,5,0.0057,10.5668,Reactor Core,Completo,0
+16,323,1,0.0141,0.0565,Zona Caliente,Máximo,0
+9,654,4,1.7492,6.7592,Zona Técnica,Completo,0
+4,654,1,0.0098,0.1005,Mantenimiento,Completo,0
+14,654,2,0.0128,8.9255,Reactor Core,Básico,0
+14,714,4,1.6875,10.613,Mantenimiento,Básico,0
+6,282,1,0.0109,3.0414,Zona Técnica,Completo,0
+14,282,5,0.0069,6.2827,Sala Control,Máximo,0
+12,282,1,0.0155,8.6109,Sala Control,Básico,0
+4,503,4,3.319,14.4694,Mantenimiento,Completo,0
+6,503,4,5.0575,8.5236,Planta Principal,Completo,0
+3,759,4,0.7621,0.8855,Zona Técnica,Básico,0
+6,524,4,1.5593,10.0829,Sala Control,Básico,0
+4,287,3,0.0214,0.1084,Perímetro,Máximo,0
+14,287,1,0.0156,6.2983,Planta Principal,Completo,0
+6,408,2,0.0153,16.9878,Mantenimiento,Máximo,0
+9,228,5,0.0035,1.9276,Perímetro,Completo,0
+4,228,5,0.0032,0.1116,Planta Principal,Básico,0
+4,591,1,0.0096,14.479,Zona Caliente,Completo,0
+18,591,3,0.0404,6.2863,Sala Control,Completo,0
+4,132,4,2.8132,4.1071,Planta Principal,Completo,0
+14,56,1,0.0168,3.6274,Mantenimiento,Ninguno,0

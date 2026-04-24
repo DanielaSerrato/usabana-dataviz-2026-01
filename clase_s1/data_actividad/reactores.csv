@@ -1,0 +1,6 @@
+﻿id_reactor,nombre,estado,tipo,capacidad_mw,anio_instalacion,edificio
+1,Burns Alpha,Activo,PWR,850,1974,Edificio A
+2,Burns Beta,Activo,BWR,780,1981,Edificio B
+3,Viejo Humo,Mantenimiento,PWR,600,1968,Edificio C
+4,RBMK-1986 (no tocar),Emergencia,RBMK,950,1986,Edificio D
+5,Mini-Reactor Bolsillo,Activo,PWR,50,2010,Sótano

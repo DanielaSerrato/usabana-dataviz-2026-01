@@ -1,0 +1,501 @@
+﻿id_turno,id_empleado,horas_trabajadas,puntualidad
+47,17,6.0,A tiempo
+47,14,8.0,A tiempo
+47,3,6.0,A tiempo
+40,14,6.0,A tiempo
+40,4,8.0,Tardanza
+40,17,4.0,A tiempo
+141,16,6.0,A tiempo
+731,9,8.0,A tiempo
+731,3,4.0,A tiempo
+731,17,6.0,A tiempo
+342,16,4.0,A tiempo
+342,3,8.0,A tiempo
+486,3,8.0,A tiempo
+486,17,6.0,Ausente
+486,9,8.0,Ausente
+532,3,4.0,A tiempo
+532,5,8.0,A tiempo
+468,16,4.0,A tiempo
+468,9,4.0,A tiempo
+468,5,6.0,A tiempo
+153,3,6.0,A tiempo
+153,4,8.0,A tiempo
+621,17,8.0,A tiempo
+528,9,6.0,A tiempo
+528,16,4.0,A tiempo
+144,9,8.0,A tiempo
+336,16,8.0,A tiempo
+628,9,8.0,A tiempo
+628,14,8.0,A tiempo
+628,3,4.0,A tiempo
+327,17,8.0,A tiempo
+327,3,8.0,A tiempo
+327,4,8.0,A tiempo
+167,4,6.0,A tiempo
+167,16,6.0,A tiempo
+403,4,8.0,Ausente
+403,5,6.0,A tiempo
+632,5,6.0,Tardanza
+632,3,8.0,A tiempo
+758,14,8.0,Ausente
+758,9,4.0,A tiempo
+307,16,4.0,A tiempo
+307,9,4.0,A tiempo
+608,9,8.0,Tardanza
+608,4,8.0,A tiempo
+608,16,8.0,A tiempo
+345,14,8.0,A tiempo
+345,17,8.0,A tiempo
+520,3,8.0,A tiempo
+520,9,8.0,A tiempo
+520,5,4.0,A tiempo
+522,3,6.0,A tiempo
+522,17,6.0,A tiempo
+522,4,8.0,Tardanza
+546,5,8.0,Tardanza
+546,3,8.0,A tiempo
+502,4,6.0,A tiempo
+502,16,4.0,Tardanza
+726,5,4.0,A tiempo
+726,17,8.0,A tiempo
+726,9,8.0,A tiempo
+577,9,4.0,A tiempo
+577,3,8.0,Tardanza
+764,5,8.0,A tiempo
+764,9,8.0,A tiempo
+487,5,6.0,Tardanza
+18,16,8.0,A tiempo
+18,9,8.0,A tiempo
+18,5,8.0,A tiempo
+378,16,4.0,Ausente
+378,5,4.0,A tiempo
+378,17,8.0,A tiempo
+340,14,6.0,Ausente
+340,9,8.0,A tiempo
+340,4,8.0,Tardanza
+690,3,8.0,A tiempo
+690,17,8.0,A tiempo
+690,9,8.0,A tiempo
+113,9,6.0,A tiempo
+113,5,6.0,Tardanza
+113,3,4.0,A tiempo
+427,14,8.0,A tiempo
+427,9,8.0,A tiempo
+427,3,8.0,A tiempo
+598,16,8.0,Tardanza
+598,9,6.0,A tiempo
+598,4,8.0,A tiempo
+316,17,8.0,A tiempo
+316,5,8.0,A tiempo
+743,9,8.0,Ausente
+743,14,8.0,A tiempo
+705,16,8.0,A tiempo
+645,9,4.0,A tiempo
+645,14,8.0,A tiempo
+28,9,4.0,A tiempo
+612,14,6.0,Tardanza
+612,3,8.0,A tiempo
+778,14,8.0,Tardanza
+778,9,8.0,Tardanza
+778,5,6.0,A tiempo
+272,17,8.0,A tiempo
+672,14,8.0,A tiempo
+593,17,8.0,A tiempo
+593,9,8.0,A tiempo
+593,3,4.0,A tiempo
+592,5,8.0,A tiempo
+592,9,8.0,A tiempo
+592,4,4.0,A tiempo
+234,5,6.0,A tiempo
+53,9,8.0,A tiempo
+53,5,4.0,A tiempo
+53,3,8.0,A tiempo
+747,9,6.0,A tiempo
+747,4,8.0,A tiempo
+492,17,8.0,A tiempo
+492,4,8.0,A tiempo
+175,4,8.0,A tiempo
+175,16,8.0,A tiempo
+175,9,8.0,A tiempo
+537,3,8.0,A tiempo
+537,4,4.0,A tiempo
+745,9,8.0,A tiempo
+745,3,8.0,A tiempo
+745,16,8.0,Tardanza
+635,5,4.0,A tiempo
+390,16,6.0,Tardanza
+152,14,6.0,A tiempo
+698,4,8.0,A tiempo
+698,17,4.0,A tiempo
+249,9,8.0,A tiempo
+33,17,8.0,A tiempo
+33,3,8.0,A tiempo
+587,14,8.0,A tiempo
+587,17,8.0,A tiempo
+718,5,4.0,A tiempo
+718,14,8.0,A tiempo
+749,17,6.0,A tiempo
+749,16,8.0,A tiempo
+196,4,8.0,Ausente
+196,9,8.0,A tiempo
+196,5,4.0,Ausente
+20,5,4.0,A tiempo
+452,5,6.0,A tiempo
+452,3,6.0,A tiempo
+322,3,8.0,A tiempo
+322,16,8.0,A tiempo
+322,9,8.0,A tiempo
+429,16,8.0,A tiempo
+429,9,8.0,A tiempo
+156,16,4.0,A tiempo
+423,9,6.0,A tiempo
+708,14,4.0,A tiempo
+708,17,8.0,A tiempo
+209,14,8.0,A tiempo
+209,16,8.0,A tiempo
+209,3,6.0,A tiempo
+421,16,8.0,Ausente
+421,17,4.0,A tiempo
+421,9,8.0,A tiempo
+514,16,6.0,A tiempo
+514,14,8.0,A tiempo
+514,17,4.0,A tiempo
+627,14,8.0,A tiempo
+627,16,8.0,A tiempo
+627,17,8.0,A tiempo
+483,3,8.0,A tiempo
+64,9,6.0,A tiempo
+64,4,4.0,A tiempo
+142,16,8.0,A tiempo
+142,9,8.0,A tiempo
+142,5,8.0,A tiempo
+777,17,6.0,A tiempo
+777,4,8.0,A tiempo
+777,16,4.0,Ausente
+213,17,4.0,A tiempo
+575,16,4.0,A tiempo
+333,14,6.0,A tiempo
+333,4,8.0,A tiempo
+333,9,8.0,A tiempo
+679,17,8.0,A tiempo
+679,3,6.0,A tiempo
+679,14,8.0,A tiempo
+490,5,4.0,A tiempo
+539,5,6.0,A tiempo
+539,14,8.0,A tiempo
+539,9,4.0,A tiempo
+386,16,6.0,A tiempo
+386,5,8.0,A tiempo
+386,14,8.0,A tiempo
+716,5,8.0,A tiempo
+178,14,6.0,A tiempo
+178,4,8.0,A tiempo
+471,16,6.0,A tiempo
+471,17,8.0,A tiempo
+471,4,8.0,A tiempo
+759,3,4.0,A tiempo
+759,5,4.0,Ausente
+759,17,6.0,A tiempo
+351,16,4.0,A tiempo
+351,9,4.0,A tiempo
+560,14,8.0,A tiempo
+363,5,8.0,A tiempo
+659,5,6.0,A tiempo
+659,4,4.0,A tiempo
+659,9,8.0,A tiempo
+271,17,8.0,A tiempo
+271,14,8.0,A tiempo
+625,14,4.0,A tiempo
+625,4,8.0,A tiempo
+496,9,8.0,A tiempo
+197,9,8.0,A tiempo
+253,4,6.0,A tiempo
+286,14,8.0,A tiempo
+286,16,8.0,A tiempo
+286,9,8.0,A tiempo
+572,5,8.0,A tiempo
+572,14,8.0,A tiempo
+572,16,8.0,Ausente
+306,16,4.0,Tardanza
+306,3,8.0,Tardanza
+306,4,8.0,A tiempo
+231,4,8.0,A tiempo
+305,17,4.0,A tiempo
+296,16,4.0,A tiempo
+296,5,8.0,A tiempo
+296,9,8.0,A tiempo
+703,9,8.0,A tiempo
+703,17,8.0,A tiempo
+501,16,8.0,Tardanza
+501,17,6.0,A tiempo
+325,17,4.0,A tiempo
+325,4,8.0,A tiempo
+732,4,8.0,Tardanza
+732,14,8.0,A tiempo
+732,9,4.0,A tiempo
+358,9,4.0,A tiempo
+574,4,8.0,Tardanza
+574,16,8.0,A tiempo
+281,3,8.0,A tiempo
+281,16,8.0,A tiempo
+295,4,8.0,A tiempo
+295,3,8.0,A tiempo
+295,9,8.0,A tiempo
+125,4,4.0,A tiempo
+588,4,8.0,A tiempo
+588,14,8.0,A tiempo
+588,9,4.0,A tiempo
+557,3,4.0,A tiempo
+557,4,8.0,A tiempo
+389,5,4.0,A tiempo
+389,4,8.0,A tiempo
+405,4,6.0,A tiempo
+405,3,8.0,A tiempo
+405,14,8.0,A tiempo
+354,9,6.0,A tiempo
+150,3,8.0,A tiempo
+298,14,4.0,A tiempo
+44,5,8.0,A tiempo
+44,4,8.0,A tiempo
+670,14,8.0,A tiempo
+670,16,8.0,A tiempo
+670,17,8.0,A tiempo
+81,14,8.0,A tiempo
+81,4,8.0,A tiempo
+81,9,8.0,A tiempo
+355,14,8.0,Ausente
+355,3,8.0,A tiempo
+355,17,6.0,A tiempo
+453,16,8.0,A tiempo
+453,4,8.0,A tiempo
+453,9,8.0,A tiempo
+263,17,4.0,A tiempo
+491,16,4.0,A tiempo
+491,14,8.0,A tiempo
+491,9,6.0,A tiempo
+220,3,8.0,A tiempo
+220,5,8.0,Ausente
+207,14,8.0,A tiempo
+552,17,8.0,A tiempo
+552,16,8.0,A tiempo
+552,3,8.0,Tardanza
+278,9,6.0,A tiempo
+576,16,8.0,A tiempo
+576,17,8.0,A tiempo
+279,9,8.0,A tiempo
+781,5,8.0,A tiempo
+781,4,8.0,A tiempo
+781,17,8.0,A tiempo
+112,5,4.0,A tiempo
+631,5,6.0,A tiempo
+601,9,8.0,A tiempo
+601,14,6.0,A tiempo
+246,5,8.0,Tardanza
+724,16,6.0,A tiempo
+724,3,8.0,A tiempo
+724,4,4.0,A tiempo
+52,4,8.0,A tiempo
+544,16,8.0,A tiempo
+544,17,4.0,Tardanza
+544,9,8.0,A tiempo
+232,14,8.0,A tiempo
+239,3,6.0,Ausente
+239,4,4.0,A tiempo
+239,16,4.0,Tardanza
+54,5,6.0,A tiempo
+54,3,8.0,A tiempo
+103,17,8.0,A tiempo
+103,5,6.0,Ausente
+103,14,8.0,A tiempo
+424,17,8.0,Tardanza
+424,4,8.0,A tiempo
+424,16,8.0,A tiempo
+339,3,4.0,A tiempo
+339,5,8.0,A tiempo
+339,17,6.0,Ausente
+484,9,8.0,A tiempo
+484,3,8.0,A tiempo
+637,17,6.0,A tiempo
+648,9,8.0,A tiempo
+648,16,6.0,A tiempo
+6,3,6.0,A tiempo
+6,14,8.0,A tiempo
+564,17,4.0,A tiempo
+564,5,8.0,A tiempo
+162,4,8.0,A tiempo
+162,3,6.0,A tiempo
+417,4,4.0,A tiempo
+488,3,8.0,Ausente
+488,14,8.0,A tiempo
+489,5,8.0,A tiempo
+489,3,8.0,A tiempo
+205,14,8.0,A tiempo
+205,3,8.0,Ausente
+205,4,4.0,A tiempo
+660,5,8.0,Ausente
+660,17,4.0,A tiempo
+660,4,6.0,A tiempo
+329,3,8.0,A tiempo
+329,4,8.0,A tiempo
+293,5,8.0,A tiempo
+293,16,8.0,Tardanza
+61,3,8.0,A tiempo
+92,9,8.0,A tiempo
+92,4,4.0,A tiempo
+92,3,6.0,A tiempo
+668,9,4.0,A tiempo
+668,17,8.0,A tiempo
+668,3,8.0,A tiempo
+238,4,6.0,A tiempo
+238,3,8.0,A tiempo
+548,9,4.0,A tiempo
+548,14,8.0,A tiempo
+39,4,6.0,A tiempo
+39,16,6.0,A tiempo
+180,17,8.0,A tiempo
+180,16,4.0,A tiempo
+428,14,8.0,A tiempo
+428,5,8.0,A tiempo
+428,9,8.0,Tardanza
+181,3,6.0,A tiempo
+181,9,6.0,Ausente
+38,3,8.0,A tiempo
+407,14,8.0,A tiempo
+407,16,8.0,A tiempo
+508,5,8.0,A tiempo
+508,4,8.0,A tiempo
+191,5,8.0,Tardanza
+191,14,6.0,A tiempo
+191,3,8.0,A tiempo
+297,14,8.0,A tiempo
+297,5,8.0,A tiempo
+616,4,4.0,A tiempo
+616,3,6.0,A tiempo
+616,14,8.0,A tiempo
+10,17,8.0,A tiempo
+681,14,8.0,A tiempo
+582,17,8.0,A tiempo
+582,5,4.0,A tiempo
+582,3,8.0,A tiempo
+110,4,4.0,A tiempo
+344,16,8.0,A tiempo
+344,5,6.0,A tiempo
+292,17,6.0,A tiempo
+292,5,4.0,A tiempo
+292,4,8.0,A tiempo
+466,3,4.0,Tardanza
+466,16,6.0,A tiempo
+466,14,6.0,A tiempo
+667,4,8.0,Tardanza
+667,16,8.0,A tiempo
+667,14,8.0,A tiempo
+730,4,8.0,A tiempo
+730,16,8.0,A tiempo
+506,4,8.0,A tiempo
+506,17,8.0,A tiempo
+138,9,4.0,A tiempo
+517,9,4.0,Tardanza
+480,14,8.0,A tiempo
+480,9,6.0,A tiempo
+280,4,8.0,A tiempo
+280,17,8.0,A tiempo
+280,9,8.0,A tiempo
+198,3,8.0,A tiempo
+116,4,8.0,A tiempo
+116,16,8.0,A tiempo
+728,9,4.0,Tardanza
+728,16,8.0,A tiempo
+728,3,4.0,A tiempo
+768,5,8.0,Ausente
+470,16,6.0,A tiempo
+470,14,8.0,A tiempo
+264,3,4.0,A tiempo
+609,4,8.0,A tiempo
+609,3,8.0,A tiempo
+15,16,8.0,A tiempo
+15,14,8.0,A tiempo
+15,9,8.0,Ausente
+346,17,8.0,A tiempo
+346,3,4.0,A tiempo
+303,5,4.0,A tiempo
+303,3,4.0,A tiempo
+303,14,4.0,A tiempo
+604,9,8.0,A tiempo
+604,5,6.0,A tiempo
+736,16,8.0,A tiempo
+736,3,4.0,Ausente
+736,17,6.0,A tiempo
+615,17,4.0,A tiempo
+416,14,4.0,A tiempo
+416,16,8.0,A tiempo
+438,9,8.0,A tiempo
+773,17,8.0,A tiempo
+773,14,4.0,A tiempo
+773,16,8.0,Ausente
+771,4,8.0,A tiempo
+89,9,6.0,A tiempo
+89,4,8.0,A tiempo
+89,16,6.0,A tiempo
+411,17,6.0,A tiempo
+411,5,8.0,A tiempo
+98,14,8.0,A tiempo
+98,17,8.0,A tiempo
+98,9,6.0,A tiempo
+190,3,6.0,A tiempo
+772,17,8.0,Tardanza
+772,14,8.0,A tiempo
+626,14,4.0,A tiempo
+626,17,8.0,A tiempo
+332,14,8.0,A tiempo
+332,16,8.0,A tiempo
+332,9,8.0,A tiempo
+255,5,8.0,A tiempo
+255,3,8.0,A tiempo
+7,17,8.0,Ausente
+7,16,8.0,A tiempo
+268,9,4.0,A tiempo
+268,5,8.0,A tiempo
+268,16,8.0,Tardanza
+393,16,6.0,Tardanza
+393,9,8.0,A tiempo
+242,3,8.0,A tiempo
+458,4,6.0,A tiempo
+458,14,8.0,Tardanza
+274,17,8.0,A tiempo
+338,3,8.0,A tiempo
+338,5,4.0,A tiempo
+310,3,8.0,A tiempo
+310,16,6.0,A tiempo
+310,17,4.0,A tiempo
+12,5,8.0,A tiempo
+12,4,8.0,A tiempo
+566,3,6.0,A tiempo
+566,4,8.0,Tardanza
+369,4,8.0,A tiempo
+369,16,6.0,A tiempo
+369,17,8.0,A tiempo
+630,16,8.0,A tiempo
+706,4,8.0,A tiempo
+122,16,8.0,A tiempo
+122,17,4.0,Tardanza
+477,5,4.0,A tiempo
+477,4,6.0,A tiempo
+315,14,8.0,A tiempo
+315,3,8.0,A tiempo
+164,14,8.0,A tiempo
+164,5,8.0,Ausente
+164,16,8.0,Tardanza
+579,16,8.0,A tiempo
+579,17,6.0,A tiempo
+515,17,6.0,A tiempo
+319,16,8.0,A tiempo
+319,4,8.0,A tiempo
+121,9,8.0,A tiempo
+121,17,6.0,A tiempo
+583,16,8.0,A tiempo
+583,17,4.0,Tardanza
+377,5,8.0,A tiempo
+377,14,6.0,A tiempo
+377,17,8.0,A tiempo
+227,5,8.0,Tardanza

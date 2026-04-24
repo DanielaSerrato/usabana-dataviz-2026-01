@@ -1,0 +1,16 @@
+﻿tabla,filas,columnas,archivo
+capacitaciones,15,7,capacitaciones.csv
+casilleros,40,4,casilleros.csv
+dosimetria,300,8,dosimetria.csv
+empleado_capacitacion,149,7,empleado_capacitacion.csv
+empleado_turno,500,4,empleado_turno.csv
+empleados,20,9,empleados.csv
+fact_operacion,500,14,fact_operacion.csv
+incidentes,80,10,incidentes.csv
+inventario,60,6,inventario.csv
+mantenimientos,120,8,mantenimientos.csv
+materiales,10,8,materiales.csv
+proveedores,10,8,proveedores.csv
+reactores,5,7,reactores.csv
+sanciones,60,9,sanciones.csv
+turnos,783,5,turnos.csv
