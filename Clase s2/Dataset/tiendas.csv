@@ -1,0 +1,51 @@
+id_tienda,nombre_tienda,tipo_tienda,ciudad,region,pais,fecha_apertura,metros_cuadrados,activa
+T100,Central Perk Austin #1,Express,Austin,Sur,Estados Unidos,2020-10-15,60,True
+T101,Central Perk San Francisco #2,Standard,San Francisco,Oeste,Estados Unidos,2021-10-30,186,True
+T102,Central Perk Chicago #3,Drive-thru,Chicago,Medio Oeste,Estados Unidos,2019-01-13,126,True
+T103,Central Perk Austin #4,Drive-thru,Austin,Sur,Estados Unidos,2021-12-20,143,True
+T104,Central Perk San Francisco #5,Drive-thru,San Francisco,Oeste,Estados Unidos,2019-04-24,55,True
+T105,Central Perk Boston #6,Flagship,Boston,Noreste,Estados Unidos,2021-09-09,362,True
+T106,Central Perk Seattle #7,Standard,Seattle,Oeste,Estados Unidos,2021-11-26,215,True
+T107,Central Perk Nueva York #8,Flagship,Nueva York,Noreste,Estados Unidos,2023-10-10,383,True
+T108,Central Perk Austin #9,Standard,Austin,Sur,Estados Unidos,2022-08-28,201,True
+T109,Central Perk Los Ángeles #10,Standard,Los Ángeles,Oeste,Estados Unidos,2018-04-17,180,True
+T110,Central Perk Miami #11,Standard,Miami,Sureste,Estados Unidos,2023-07-04,177,True
+T111,Central Perk Nueva York #12,Express,Nueva York,Noreste,Estados Unidos,2018-05-21,30,True
+T112,Central Perk San Francisco #13,Express,San Francisco,Oeste,Estados Unidos,2021-11-04,60,True
+T113,Central Perk Boston #14,Standard,Boston,Noreste,Estados Unidos,2022-02-12,171,True
+T114,Central Perk Monterrey #15,Express,Monterrey,Norte,México,2019-02-06,44,True
+T115,Central Perk Querétaro #16,Express,Querétaro,Centro,México,2022-05-25,34,True
+T116,Central Perk Cancún #17,Express,Cancún,Sureste,México,2019-05-14,61,True
+T117,Central Perk Guadalajara #18,Standard,Guadalajara,Occidente,México,2021-04-26,139,True
+T118,Central Perk Cancún #19,Standard,Cancún,Sureste,México,2021-08-14,176,True
+T119,Central Perk Querétaro #20,Express,Querétaro,Centro,México,2018-09-02,39,True
+T120,Central Perk Querétaro #21,Standard,Querétaro,Centro,México,2020-08-05,186,True
+T121,Central Perk Cancún #22,Express,Cancún,Sureste,México,2020-12-04,62,True
+T122,Central Perk Guadalajara #23,Express,Guadalajara,Occidente,México,2020-03-29,57,True
+T123,Central Perk Querétaro #24,Standard,Querétaro,Centro,México,2022-03-26,173,True
+T124,Central Perk Cartagena #25,Standard,Cartagena,Caribe,Colombia,2020-06-12,167,True
+T125,Central Perk Medellín #26,Standard,Medellín,Andina,Colombia,2019-07-04,185,True
+T126,Central Perk Medellín #27,Standard,Medellín,Andina,Colombia,2022-06-02,174,True
+T127,Central Perk Bogotá #28,Standard,Bogotá,Andina,Colombia,2021-10-13,175,True
+T128,Central Perk Bogotá #29,Flagship,Bogotá,Andina,Colombia,2022-06-27,335,True
+T129,Central Perk Cali #30,Standard,Cali,Pacífica,Colombia,2018-10-21,160,True
+T130,Central Perk Bogotá #31,Flagship,Bogotá,Andina,Colombia,2019-12-20,358,True
+T131,Central Perk Cartagena #32,Standard,Cartagena,Caribe,Colombia,2018-10-17,168,True
+T132,Central Perk Cali #33,Standard,Cali,Pacífica,Colombia,2023-06-30,122,True
+T133,Central Perk Bogotá #34,Standard,Bogotá,Andina,Colombia,2021-06-21,172,True
+T134,Central Perk Sevilla #35,Standard,Sevilla,Andalucía,España,2018-03-26,170,True
+T135,Central Perk Barcelona #36,Standard,Barcelona,Cataluña,España,2019-05-03,200,True
+T136,Central Perk Bilbao #37,Standard,Bilbao,Norte,España,2022-10-13,217,True
+T137,Central Perk Bilbao #38,Standard,Bilbao,Norte,España,2018-12-07,242,True
+T138,Central Perk Bilbao #39,Standard,Bilbao,Norte,España,2022-09-23,165,True
+T139,Central Perk Madrid #40,Standard,Madrid,Centro,España,2022-11-06,198,True
+T140,Central Perk Madrid #41,Standard,Madrid,Centro,España,2022-10-15,198,True
+T141,Central Perk Barcelona #42,Flagship,Barcelona,Cataluña,España,2023-09-14,304,True
+T142,Central Perk Bilbao #43,Drive-thru,Bilbao,Norte,España,2018-11-12,69,True
+T143,Central Perk Buenos Aires #44,Standard,Buenos Aires,Centro,Argentina,2018-10-27,127,True
+T144,Central Perk Córdoba #45,Standard,Córdoba,Centro,Argentina,2019-06-17,181,True
+T145,Central Perk Buenos Aires #46,Standard,Buenos Aires,Centro,Argentina,2023-10-28,163,True
+T146,Central Perk Córdoba #47,Express,Córdoba,Centro,Argentina,2021-01-11,112,True
+T147,Central Perk Córdoba #48,Standard,Córdoba,Centro,Argentina,2023-06-30,169,True
+T148,Central Perk Córdoba #49,Standard,Córdoba,Centro,Argentina,2022-04-24,214,True
+T149,Central Perk Mendoza #50,Standard,Mendoza,Cuyo,Argentina,2020-05-09,195,True

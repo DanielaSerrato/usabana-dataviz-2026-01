@@ -1,0 +1,121 @@
+id_producto,nombre,categoria,subcategoria,marca,precio_lista,costo,activo,lanzamiento
+P1000,Espresso Doble Ross Reserve,Bebidas calientes,Café espresso,Central Perk Original,11100.0,4400.0,True,2022-09-19
+P1001,Macchiato Caramelo Joey,Bebidas calientes,Café espresso,Joey's Picks,15800.0,5700.0,True,2021-11-24
+P1002,Americano Clásico Central,Bebidas calientes,Café espresso,Rachel Skinny,15900.0,6500.0,True,2024-03-05
+P1003,Cortado Phoebe,Bebidas calientes,Café espresso,Rachel Skinny,11300.0,6400.0,True,2022-01-15
+P1004,Latte Vainilla Rachel,Bebidas calientes,Café con leche,Monica Clean,15300.0,6100.0,True,2020-09-07
+P1005,Cappuccino Monica Clean,Bebidas calientes,Café con leche,Smelly Cat Co,21200.0,11000.0,True,2022-06-11
+P1006,Mocha Chandler Sarcasmocha,Bebidas calientes,Café con leche,Central Perk Original,20000.0,7300.0,True,2023-10-29
+P1007,Flat White Gunther,Bebidas calientes,Café con leche,Phoebe's Choice,21900.0,10900.0,True,2024-03-03
+P1008,Té Earl Grey Phoebe,Bebidas calientes,Té,Rachel Skinny,22000.0,10600.0,True,2021-10-15
+P1009,Chai Latte Joey Special,Bebidas calientes,Té,Rachel Skinny,15100.0,8400.0,True,2022-02-20
+P1010,Té Verde Matcha Rachel,Bebidas calientes,Té,Rachel Skinny,11900.0,4900.0,True,2023-01-13
+P1011,Té Negro Inglés,Bebidas calientes,Té,Ross Reserve,19900.0,10000.0,False,2024-05-14
+P1012,Chocolate Caliente Belga,Bebidas calientes,Chocolate,Smelly Cat Co,21000.0,12200.0,True,2022-11-23
+P1013,Mocha Blanco Premium,Bebidas calientes,Chocolate,Rachel Skinny,12500.0,7200.0,True,2022-06-26
+P1014,Hot Chocolate Marshmallow,Bebidas calientes,Chocolate,Rachel Skinny,14000.0,8200.0,True,2023-11-22
+P1015,Cold Brew Monica Clean,Bebidas frías,Café frío,Smelly Cat Co,19300.0,8000.0,True,2022-08-18
+P1016,Iced Latte Vainilla,Bebidas frías,Café frío,Monica Clean,25800.0,12700.0,True,2023-02-19
+P1017,Frappé Caramelo Smelly,Bebidas frías,Café frío,Smelly Cat Co,14700.0,6000.0,True,2023-12-03
+P1018,Frappuccino Mocha,Bebidas frías,Café frío,Smelly Cat Co,13000.0,7200.0,True,2020-10-08
+P1019,Smoothie Frutas Phoebe,Bebidas frías,Smoothies,Ross Reserve,11900.0,6900.0,True,2024-03-28
+P1020,Açaí Bowl Bebible Rachel,Bebidas frías,Smoothies,Smelly Cat Co,12000.0,6800.0,True,2023-08-14
+P1021,Green Detox Monica,Bebidas frías,Smoothies,Smelly Cat Co,18700.0,7900.0,True,2023-05-22
+P1022,Smoothie Proteína Joey,Bebidas frías,Smoothies,Rachel Skinny,21100.0,7900.0,True,2023-07-28
+P1023,Limonada Rosa Central,Bebidas frías,Limonadas,Ross Reserve,11600.0,6500.0,True,2024-05-12
+P1024,Limonada Menta Tropical,Bebidas frías,Limonadas,Phoebe's Choice,10400.0,4200.0,True,2021-11-28
+P1025,Iced Tea de Durazno,Bebidas frías,Limonadas,Central Perk Original,23200.0,13000.0,True,2020-05-31
+P1026,Sándwich Joey 'No food sharing',Comida,Sándwiches,Rachel Skinny,23800.0,8900.0,True,2023-08-27
+P1027,Wrap Pollo César Rachel,Comida,Sándwiches,Central Perk Original,9100.0,4900.0,True,2021-03-18
+P1028,Sándwich Vegano Phoebe,Comida,Sándwiches,Central Perk Original,17100.0,9100.0,True,2021-12-12
+P1029,Croissant Jamón Queso,Comida,Sándwiches,Joey's Picks,19900.0,9500.0,True,2023-11-20
+P1030,Bowl Avena Frutas,Comida,Bowls,Smelly Cat Co,29500.0,12800.0,True,2022-02-18
+P1031,Bowl Quinoa Pollo,Comida,Bowls,Central Perk Original,15100.0,8500.0,True,2022-08-13
+P1032,Bowl Falafel Mediterráneo,Comida,Bowls,Ross Reserve,18100.0,7100.0,True,2023-06-02
+P1033,Cheesecake NY Monica,Comida,Postres,Central Perk Original,16300.0,8800.0,True,2021-09-21
+P1034,Brownie Joey's Triple Choc,Comida,Postres,Smelly Cat Co,11200.0,4000.0,True,2022-04-15
+P1035,Galletas Avena Phoebe,Comida,Postres,Monica Clean,23700.0,10500.0,True,2020-04-12
+P1036,Tarta Manzana Rachel,Comida,Postres,Ross Reserve,11200.0,5000.0,False,2023-11-24
+P1037,Cupcake Vainilla Original,Comida,Postres,Monica Clean,27800.0,15900.0,True,2023-01-23
+P1038,Tiramisú Casa,Comida,Postres,Joey's Picks,27100.0,15200.0,True,2022-03-19
+P1039,Granola Bar Energy,Comida,Snacks,Phoebe's Choice,9600.0,4100.0,True,2023-12-20
+P1040,Mix Frutos Secos Premium,Comida,Snacks,Ross Reserve,10200.0,5500.0,True,2023-09-11
+P1041,Bagel Crema Queso,Comida,Snacks,Joey's Picks,26300.0,12400.0,True,2022-06-20
+P1042,Vaso Térmico CP Logo 16oz,Merchandising,Vasos,Joey's Picks,33300.0,17500.0,False,2023-11-22
+P1043,Vaso Cerámico Friends 12oz,Merchandising,Vasos,Joey's Picks,43700.0,15900.0,True,2023-09-24
+P1044,Vaso Vidrio Doble Pared,Merchandising,Vasos,Smelly Cat Co,109800.0,51000.0,True,2023-11-08
+P1045,Mug Edición Limitada Joey,Merchandising,Vasos,Ross Reserve,84900.0,32900.0,True,2023-08-15
+P1046,Mug How You Doin',Merchandising,Vasos,Monica Clean,114400.0,41500.0,True,2020-07-18
+P1047,Camiseta CP Original,Merchandising,Textil,Rachel Skinny,59200.0,32500.0,True,2024-03-28
+P1048,Hoodie Friends Cast,Merchandising,Textil,Monica Clean,146900.0,82500.0,True,2020-10-27
+P1049,Gorra Logo Bordado,Merchandising,Textil,Central Perk Original,41500.0,23900.0,False,2023-07-01
+P1050,Tote Bag Smelly Cat,Merchandising,Textil,Monica Clean,169200.0,68500.0,True,2023-10-28
+P1051,Termo Acero 750ml,Merchandising,Accesorios,Joey's Picks,117000.0,58300.0,True,2020-10-13
+P1052,Llavero Friends Apartment,Merchandising,Accesorios,Central Perk Original,31700.0,17500.0,False,2023-11-02
+P1053,Calcomanías Pack,Merchandising,Accesorios,Rachel Skinny,86500.0,45200.0,True,2021-09-09
+P1054,Cuaderno Central Perk,Merchandising,Accesorios,Rachel Skinny,129600.0,65700.0,True,2021-01-10
+P1055,Latte Especias Navideñas,Temporada,Navidad,Joey's Picks,23400.0,8700.0,False,2022-04-14
+P1056,Mug Edición Navidad 2024,Temporada,Navidad,Joey's Picks,47500.0,21700.0,True,2021-04-25
+P1057,Caja Galletas Holiday,Temporada,Navidad,Ross Reserve,35000.0,17900.0,True,2022-08-31
+P1058,Calendario Adviento Café,Temporada,Navidad,Phoebe's Choice,17000.0,7500.0,True,2021-02-23
+P1059,Limonada Edición Verano,Temporada,Verano,Monica Clean,37500.0,21700.0,True,2024-01-09
+P1060,Vaso Verano Pastel,Temporada,Verano,Monica Clean,15000.0,7900.0,True,2024-04-17
+P1061,Helado Café Affogato,Temporada,Verano,Monica Clean,31400.0,13700.0,True,2020-09-19
+P1062,Pumpkin Spice Latte,Temporada,Halloween,Rachel Skinny,50500.0,26600.0,True,2021-05-12
+P1063,Galletas Calabaza,Temporada,Halloween,Joey's Picks,41000.0,23500.0,True,2022-08-08
+P1064,Mug Spooky Edition,Temporada,Halloween,Central Perk Original,15500.0,8800.0,True,2023-04-27
+P1065,Plan Café Mensual 250g,Suscripciones,Café mensual,Smelly Cat Co,285800.0,141500.0,True,2021-09-03
+P1066,Plan Café Mensual 500g,Suscripciones,Café mensual,Monica Clean,193500.0,90700.0,True,2020-02-13
+P1067,Plan Premium 1kg,Suscripciones,Café mensual,Joey's Picks,199800.0,116700.0,True,2023-04-24
+P1068,Membresía Friends Plus Mensual,Suscripciones,Friends Plus,Joey's Picks,271500.0,117700.0,True,2020-06-08
+P1069,Membresía Friends Plus Anual,Suscripciones,Friends Plus,Ross Reserve,141900.0,68500.0,True,2023-01-02
+P1070,Upgrade Premium Anual,Suscripciones,Friends Plus,Ross Reserve,256500.0,125600.0,False,2020-03-20
+P1071,Cappuccino Monica Clean Tamaño Mini,Bebidas calientes,Café con leche,Smelly Cat Co,23400.0,8900.0,True,2022-06-11
+P1072,Caja Galletas Holiday Pack 2x1,Temporada,Navidad,Ross Reserve,38700.0,14800.0,True,2022-08-31
+P1073,Galletas Avena Phoebe Tamaño Mini,Comida,Postres,Monica Clean,27400.0,14800.0,True,2020-04-12
+P1074,Latte Especias Navideñas Edición Especial,Temporada,Navidad,Joey's Picks,23700.0,10500.0,False,2022-04-14
+P1075,Wrap Pollo César Rachel Pack 2x1,Comida,Sándwiches,Central Perk Original,9700.0,4300.0,True,2021-03-18
+P1076,Termo Acero 750ml Pack 2x1,Merchandising,Accesorios,Joey's Picks,114400.0,54300.0,True,2020-10-13
+P1077,Mug Edición Navidad 2024 Tamaño Mini,Temporada,Navidad,Joey's Picks,46900.0,21500.0,True,2021-04-25
+P1078,Iced Tea de Durazno Pack 2x1,Bebidas frías,Limonadas,Central Perk Original,27900.0,12100.0,True,2020-05-31
+P1079,Iced Latte Vainilla Tamaño Mini,Bebidas frías,Café frío,Monica Clean,30800.0,14800.0,True,2023-02-19
+P1080,Tarta Manzana Rachel Tamaño Mini,Comida,Postres,Ross Reserve,10900.0,6100.0,False,2023-11-24
+P1081,Bowl Falafel Mediterráneo Pack 2x1,Comida,Bowls,Ross Reserve,20300.0,10600.0,True,2023-06-02
+P1082,Termo Acero 750ml Edición Especial,Merchandising,Accesorios,Joey's Picks,123400.0,51700.0,True,2020-10-13
+P1083,Tarta Manzana Rachel Ed. Limitada,Comida,Postres,Ross Reserve,11400.0,4200.0,False,2023-11-24
+P1084,Gorra Logo Bordado Ed. Limitada,Merchandising,Textil,Central Perk Original,51000.0,25400.0,False,2023-07-01
+P1085,Llavero Friends Apartment Edición Especial,Merchandising,Accesorios,Central Perk Original,29000.0,16100.0,False,2023-11-02
+P1086,Mug Edición Limitada Joey Pack 2x1,Merchandising,Vasos,Ross Reserve,86500.0,49300.0,True,2023-08-15
+P1087,Mug Edición Navidad 2024 Sabor Nuevo,Temporada,Navidad,Joey's Picks,48100.0,28000.0,True,2021-04-25
+P1088,Mocha Chandler Sarcasmocha Sabor Nuevo,Bebidas calientes,Café con leche,Central Perk Original,19100.0,6700.0,True,2023-10-29
+P1089,Granola Bar Energy Tamaño Mini,Comida,Snacks,Phoebe's Choice,10400.0,5800.0,True,2023-12-20
+P1090,Bowl Avena Frutas Ed. Limitada,Comida,Bowls,Smelly Cat Co,27900.0,12400.0,True,2022-02-18
+P1091,Bowl Avena Frutas Ed. Limitada,Comida,Bowls,Smelly Cat Co,26700.0,10100.0,True,2022-02-18
+P1092,Cuaderno Central Perk Edición Especial,Merchandising,Accesorios,Rachel Skinny,123200.0,43400.0,True,2021-01-10
+P1093,Mix Frutos Secos Premium Sabor Nuevo,Comida,Snacks,Ross Reserve,8900.0,4500.0,True,2023-09-11
+P1094,Croissant Jamón Queso Sabor Nuevo,Comida,Sándwiches,Joey's Picks,22500.0,12100.0,True,2023-11-20
+P1095,Bowl Avena Frutas Sabor Nuevo,Comida,Bowls,Smelly Cat Co,26900.0,14900.0,True,2022-02-18
+P1096,Limonada Edición Verano Pack 2x1,Temporada,Verano,Monica Clean,35200.0,18400.0,True,2024-01-09
+P1097,Iced Latte Vainilla Pack 2x1,Bebidas frías,Café frío,Monica Clean,33200.0,18100.0,True,2023-02-19
+P1098,Iced Tea de Durazno Sabor Nuevo,Bebidas frías,Limonadas,Central Perk Original,24300.0,10900.0,True,2020-05-31
+P1099,Smoothie Frutas Phoebe Pack 2x1,Bebidas frías,Smoothies,Ross Reserve,13700.0,6500.0,True,2024-03-28
+P1100,Termo Acero 750ml Sabor Nuevo,Merchandising,Accesorios,Joey's Picks,143800.0,82400.0,True,2020-10-13
+P1101,Bowl Falafel Mediterráneo Sabor Nuevo,Comida,Bowls,Ross Reserve,19900.0,11300.0,True,2023-06-02
+P1102,Bowl Avena Frutas Tamaño Mini,Comida,Bowls,Smelly Cat Co,27300.0,10600.0,True,2022-02-18
+P1103,Wrap Pollo César Rachel Ed. Limitada,Comida,Sándwiches,Central Perk Original,7800.0,3500.0,True,2021-03-18
+P1104,Frappuccino Mocha Tamaño Grande,Bebidas frías,Café frío,Smelly Cat Co,13300.0,6600.0,True,2020-10-08
+P1105,Espresso Doble Ross Reserve Edición Especial,Bebidas calientes,Café espresso,Central Perk Original,11300.0,6300.0,True,2022-09-19
+P1106,Chai Latte Joey Special Sabor Nuevo,Bebidas calientes,Té,Rachel Skinny,13900.0,8200.0,True,2022-02-20
+P1107,Mug Edición Navidad 2024 Pack 2x1,Temporada,Navidad,Joey's Picks,47900.0,19400.0,True,2021-04-25
+P1108,Croissant Jamón Queso Pack 2x1,Comida,Sándwiches,Joey's Picks,24200.0,11300.0,True,2023-11-20
+P1109,Limonada Edición Verano Tamaño Mini,Temporada,Verano,Monica Clean,44200.0,19800.0,True,2024-01-09
+P1110,Limonada Rosa Central Ed. Limitada,Bebidas frías,Limonadas,Ross Reserve,13800.0,6200.0,True,2024-05-12
+P1111,Iced Latte Vainilla Sabor Nuevo,Bebidas frías,Café frío,Monica Clean,29300.0,13800.0,True,2023-02-19
+P1112,Bowl Quinoa Pollo Tamaño Mini,Comida,Bowls,Central Perk Original,15400.0,8900.0,True,2022-08-13
+P1113,Bowl Falafel Mediterráneo Tamaño Mini,Comida,Bowls,Ross Reserve,22600.0,13100.0,True,2023-06-02
+P1114,Termo Acero 750ml Tamaño Mini,Merchandising,Accesorios,Joey's Picks,126900.0,67600.0,True,2020-10-13
+P1115,Galletas Avena Phoebe Sabor Nuevo,Comida,Postres,Monica Clean,24500.0,9500.0,True,2020-04-12
+P1116,Calendario Adviento Café Edición Especial,Temporada,Navidad,Phoebe's Choice,17200.0,7500.0,True,2021-02-23
+P1117,Calcomanías Pack Tamaño Grande,Merchandising,Accesorios,Rachel Skinny,96900.0,55100.0,True,2021-09-09
+P1118,Açaí Bowl Bebible Rachel Tamaño Mini,Bebidas frías,Smoothies,Smelly Cat Co,15500.0,6300.0,True,2023-08-14
+P1119,Calendario Adviento Café Edición Especial,Temporada,Navidad,Phoebe's Choice,19900.0,7700.0,True,2021-02-23

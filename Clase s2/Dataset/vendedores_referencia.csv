@@ -1,0 +1,101 @@
+id_vendedor,nombre,equipo,supervisor,pais,fecha_ingreso,activo
+5000,Alberto Andrés Bolívar,Mañana,Adalberto Luis Hinojosa,Estados Unidos,2024-04-07,True
+5001,María Beatriz Hurtado,Noche,Eduar Pérez,Estados Unidos,2019-03-31,True
+5002,Heather Cruz,Noche,Eduar Pérez,Estados Unidos,2022-07-31,True
+5003,Ciriaco Andrade Puente,Noche,Adalberto Luis Hinojosa,Estados Unidos,2020-04-03,True
+5004,Adán Lloret Tejero,Fin de semana,Adalberto Luis Hinojosa,Estados Unidos,2021-03-30,True
+5005,Zeferino Silvano Burgos Duarte,Noche,Adalberto Luis Hinojosa,Estados Unidos,2024-07-13,True
+5006,Salma Solís Matías,Tarde,Adalberto Luis Hinojosa,Estados Unidos,2024-08-05,True
+5007,Leidy Dolly Duarte Prieto,Fin de semana,Adalberto Luis Hinojosa,Estados Unidos,2025-01-06,True
+5008,Rolando Leal,Mañana,Adalberto Luis Hinojosa,Estados Unidos,2020-09-16,True
+5009,María Cristina Reyna Ulibarri,Mañana,Eduar Pérez,Estados Unidos,2024-09-23,True
+5010,Eloy Partida,Tarde,Eduar Pérez,Estados Unidos,2023-02-15,True
+5011,Eliecer Gerardo Narváez,Mañana,Adalberto Luis Hinojosa,Estados Unidos,2024-06-08,True
+5012,Eutimio Peralta Landa,Noche,Adalberto Luis Hinojosa,Estados Unidos,2025-01-29,True
+5013,Mónica Gaitán,Tarde,Eduar Pérez,Estados Unidos,2023-11-15,True
+5014,Eduardo Corredor Delgado,Noche,Eduar Pérez,Estados Unidos,2023-04-30,True
+5015,Patricia Elena Vásquez,Noche,Eduar Pérez,Estados Unidos,2019-05-10,True
+5016,Vinicio Marco Marquez,Mañana,Adalberto Luis Hinojosa,Estados Unidos,2022-01-14,True
+5017,Cecilia Agustí Tenorio,Tarde,Adalberto Luis Hinojosa,Estados Unidos,2022-01-09,True
+5018,Ale Escobar,Noche,Eduar Pérez,Estados Unidos,2023-08-02,True
+5019,Alberto Carnero Villa,Mañana,Adalberto Luis Hinojosa,Estados Unidos,2022-03-09,False
+5020,Jesús Sebastián Carvajal,Mañana,Bernardo Rolando Velázquez,México,2020-01-29,True
+5021,Jairo Ramón Bonilla,Tarde,Amy Young,México,2021-03-26,True
+5022,Jos Nicolás Samaniego,Mañana,Bernardo Rolando Velázquez,México,2023-09-23,True
+5023,Nilda Sarmiento Ochoa,Tarde,Amy Young,México,2019-08-03,True
+5024,Alexis Fernando Durán Pérez,Noche,Bernardo Rolando Velázquez,México,2023-04-22,True
+5025,Zoé Salcido Padrón,Mañana,Bernardo Rolando Velázquez,México,2020-07-03,True
+5026,Constanza Olivé Ordóñez,Noche,Amy Young,México,2024-01-07,True
+5027,Jeremy Knight,Noche,Bernardo Rolando Velázquez,México,2022-09-01,True
+5028,Bianca Maya Jáquez,Mañana,Amy Young,México,2021-03-30,True
+5029,Maura del Guillén,Fin de semana,Bernardo Rolando Velázquez,México,2020-03-21,False
+5030,Jorge Cruz,Fin de semana,Amy Young,México,2022-05-26,True
+5031,Fredy Enrique Duarte,Mañana,Amy Young,México,2024-10-08,True
+5032,Feliciana Murillo Barreda,Tarde,Amy Young,México,2025-02-28,True
+5033,Eliseo Iniesta Castrillo,Noche,Amy Young,México,2023-12-04,True
+5034,Rebekah York,Mañana,Bernardo Rolando Velázquez,México,2021-11-18,False
+5035,Myriam Acevedo,Noche,Bernardo Rolando Velázquez,México,2021-10-11,True
+5036,Dary Rocío Trujillo Arias,Mañana,Bernardo Rolando Velázquez,México,2023-08-02,True
+5037,Ana Yury Valderrama,Noche,Amy Young,México,2024-02-27,True
+5038,Aristides Loreto Rincón Vélez,Fin de semana,Bernardo Rolando Velázquez,México,2019-12-02,True
+5039,Saúl Gómez,Mañana,Bernardo Rolando Velázquez,México,2023-01-02,True
+5040,Inés Matías Zepeda,Noche,Daniel Ford,Colombia,2021-03-04,True
+5041,Sara Johnson,Noche,Daniel Ford,Colombia,2020-02-18,True
+5042,Anderson Antonio Tovar Ramírez,Mañana,Daniel Ford,Colombia,2023-05-11,True
+5043,Kevin Briggs,Mañana,Daniel Ford,Colombia,2025-03-05,True
+5044,Rocío Arcelia Saucedo Solorio,Noche,Daniel Ford,Colombia,2023-02-28,True
+5045,Isabela Durán Bernal,Mañana,Daniel Ford,Colombia,2021-03-10,True
+5046,Tammy Petty,Fin de semana,Daniel Ford,Colombia,2022-12-12,True
+5047,Iker Verdejo,Mañana,Daniel Ford,Colombia,2023-05-15,True
+5048,Román Torres-Cerezo,Tarde,María Zepeda Archuleta,Colombia,2022-02-04,True
+5049,Molly Lopez,Mañana,María Zepeda Archuleta,Colombia,2025-03-14,True
+5050,Sabas Barriga Aramburu,Mañana,María Zepeda Archuleta,Colombia,2021-07-19,True
+5051,Eliseo Palacios Castellanos,Mañana,María Zepeda Archuleta,Colombia,2020-06-06,True
+5052,Remigio Estevez Correa,Noche,Daniel Ford,Colombia,2024-06-15,True
+5053,Tina Turner,Mañana,Daniel Ford,Colombia,2023-08-14,True
+5054,Pedro Diego Maldonado Sánchez,Tarde,Daniel Ford,Colombia,2023-01-02,True
+5055,Luz Orozco,Fin de semana,Daniel Ford,Colombia,2021-10-18,True
+5056,Tatiana Salas López,Fin de semana,María Zepeda Archuleta,Colombia,2020-09-11,True
+5057,Daniel del Garcia,Fin de semana,María Zepeda Archuleta,Colombia,2020-05-07,True
+5058,Julia Cox,Tarde,María Zepeda Archuleta,Colombia,2021-08-17,True
+5059,Kristin Olson,Mañana,Daniel Ford,Colombia,2025-04-15,True
+5060,Reyes Bermúdez Otero,Noche,Ramiro Héctor Salgado,España,2019-12-24,True
+5061,Miguel Ángel Rosselló,Tarde,Ramiro Héctor Salgado,España,2022-08-22,True
+5062,Camila Caro Angulo,Mañana,Robert Brown,España,2025-04-15,True
+5063,Adela María Luisa Soliz,Fin de semana,Robert Brown,España,2021-04-28,True
+5064,Carlota Barbara Colón Valencia,Noche,Robert Brown,España,2022-01-20,True
+5065,Mark Williams,Tarde,Ramiro Héctor Salgado,España,2021-03-02,True
+5066,Felipe Iván Bautista Pinto,Tarde,Ramiro Héctor Salgado,España,2021-05-07,True
+5067,Aurelio Villanueva Arguello,Noche,Robert Brown,España,2023-06-28,True
+5068,Jasmine Brewer,Noche,Ramiro Héctor Salgado,España,2024-03-20,True
+5069,Brittany Flores,Mañana,Ramiro Héctor Salgado,España,2019-11-23,True
+5070,Joseph Scott,Fin de semana,Ramiro Héctor Salgado,España,2025-05-15,True
+5071,Victoria Elisa Quintero,Tarde,Ramiro Héctor Salgado,España,2021-08-11,True
+5072,Mitchell Harrison,Fin de semana,Robert Brown,España,2022-05-27,True
+5073,Teodora Milla,Tarde,Robert Brown,España,2019-05-09,True
+5074,Cody Lopez,Noche,Ramiro Héctor Salgado,España,2024-01-03,True
+5075,Karen Smith,Noche,Robert Brown,España,2022-04-10,True
+5076,Stiven Jorge Estrada Álvarez,Fin de semana,Robert Brown,España,2025-04-03,True
+5077,Francisco Rafael Posada,Fin de semana,Robert Brown,España,2023-10-15,True
+5078,Sergio Benítez,Tarde,Ramiro Héctor Salgado,España,2022-11-21,True
+5079,Rebecca Trujillo,Fin de semana,Ramiro Héctor Salgado,España,2022-05-30,True
+5080,Diana Marcela Meneses Silva,Fin de semana,Diana Rivera,Argentina,2019-09-20,True
+5081,Alfonso Flavio Valenzuela Carrillo,Noche,Brayan Ruiz,Argentina,2023-09-04,True
+5082,Edilson Farid Vélez,Mañana,Diana Rivera,Argentina,2020-08-13,True
+5083,Brandon Pearson,Mañana,Brayan Ruiz,Argentina,2020-09-27,False
+5084,Edwin Gómez,Noche,Brayan Ruiz,Argentina,2019-08-10,True
+5085,Mercedes de Valbuena,Tarde,Diana Rivera,Argentina,2023-08-10,True
+5086,René Orozco,Mañana,Diana Rivera,Argentina,2019-09-29,True
+5087,Adrián Reyes Polo,Noche,Diana Rivera,Argentina,2022-10-02,True
+5088,Diego Cózar Flores,Fin de semana,Brayan Ruiz,Argentina,2022-05-27,True
+5089,Miguel Ángel Bernabé Almaraz Montañez,Tarde,Diana Rivera,Argentina,2025-05-12,True
+5090,Tere Villanueva-Hervia,Mañana,Diana Rivera,Argentina,2024-11-24,True
+5091,Carmelita Uría Carlos,Fin de semana,Brayan Ruiz,Argentina,2019-01-05,True
+5092,Michael Soto,Noche,Brayan Ruiz,Argentina,2023-05-11,True
+5093,Silvano Agustín Hernádez,Mañana,Diana Rivera,Argentina,2019-12-26,False
+5094,Terri Wheeler,Tarde,Brayan Ruiz,Argentina,2021-08-11,True
+5095,Carolina Galvis,Noche,Brayan Ruiz,Argentina,2024-01-07,True
+5096,Vanessa Janeth Pérez Pedraza,Noche,Diana Rivera,Argentina,2019-12-18,True
+5097,María Silva Sánchez,Fin de semana,Diana Rivera,Argentina,2019-03-05,True
+5098,Tiffany James,Mañana,Brayan Ruiz,Argentina,2022-10-11,True
+5099,Martha Cecilia Montes,Fin de semana,Brayan Ruiz,Argentina,2021-04-30,False
