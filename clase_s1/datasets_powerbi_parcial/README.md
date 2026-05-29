@@ -1,25 +1,34 @@
 # Datasets para parcial corto de Power BI
 
-Esta carpeta contiene cinco bases de datos pequenas, cada una con un tema distinto. Cada estudiante debe escoger o recibir una base, importarla en Power BI, limpiar los datos, crear el modelo, construir medidas DAX y responder la pregunta asignada.
+Esta carpeta contiene cinco bases de datos pequenas, cada una con un tema distinto. Cada estudiante debe escoger o recibir una base, importarla en Power BI, limpiar los datos, crear el modelo, construir una tabla calendario, proponer sus propias metricas DAX y responder la pregunta asignada.
 
 ## Entregable esperado
 
 - Archivo `.pbix` con el modelo de datos.
 - Relaciones creadas correctamente entre tablas.
-- Limpieza aplicada en Power Query.
-- Minimo 5 medidas DAX.
-- Una pagina de dashboard con KPI, grafico temporal, ranking, matriz y segmentadores.
+- Tabla calendario creada en Power BI, relacionada con la columna de fecha principal del dataset.
+- Limpieza aplicada en Power Query con cambios pequenos pero justificados.
+- Minimo 5 medidas DAX definidas por el estudiante segun la pregunta del dataset.
+- Una pagina de dashboard disenada por el estudiante, con visuales apropiados para responder la pregunta.
 - Respuesta escrita a la pregunta del dataset, usando cifras del dashboard.
 
 ## Criterios de evaluacion sugeridos
 
 | Criterio | Evidencia | Puntos |
 |---|---|---:|
-| Carga y limpieza | Tipos de datos correctos, nulos tratados, categorias estandarizadas | 20 |
-| Modelo | Relaciones correctas, modelo sin ambiguedades | 20 |
-| DAX | Medidas de total, tasa/promedio, variacion, ranking y cumplimiento | 25 |
-| Visualizacion | Dashboard claro, filtrable y coherente con la pregunta | 25 |
+| Carga y limpieza | Tipos de datos correctos, nulos tratados, categorias estandarizadas y cambios pequenos en Power Query | 20 |
+| Modelo | Relaciones correctas, tabla calendario creada y modelo sin ambiguedades | 20 |
+| DAX | Metricas propias, coherentes con la pregunta y sensibles a filtros | 25 |
+| Visualizacion | Dashboard claro, filtrable y disenado segun criterio del estudiante | 25 |
 | Analisis | Respuesta sustentada con datos | 10 |
+
+## Reglas generales
+
+- No hay hoja de calendario en los archivos. Cada estudiante debe crearla en Power BI, por ejemplo con `CALENDAR`, `CALENDARAUTO` o una tabla calculada equivalente.
+- La tabla calendario debe incluir, como minimo: fecha, anio, mes, nombre del mes y trimestre.
+- Las metricas DAX no tienen que ser identicas para todos. Cada estudiante debe escoger las metricas que mejor respondan la pregunta de su dataset.
+- En Power Query se esperan cambios pequenos y razonables: corregir tipos de datos, limpiar espacios, unificar categorias, reemplazar nulos o crear columnas simples si son utiles.
+- El diseno del dashboard es libre. Debe incluir visuales que ayuden a responder la pregunta, no solamente graficos decorativos.
 
 ## Preguntas por dataset
 
@@ -31,9 +40,9 @@ Relaciones sugeridas:
 
 - `Ventas[ProductoID]` -> `Productos[ProductoID]`
 - `Ventas[ClienteID]` -> `Clientes[ClienteID]`
-- `Ventas[Fecha]` -> `Calendario[Fecha]`
+- `Ventas[Fecha]` -> tabla calendario creada por el estudiante
 
-Medidas sugeridas:
+Metricas posibles:
 
 - Ventas netas
 - Costo total
@@ -55,9 +64,9 @@ Relaciones sugeridas:
 
 - `Citas[PacienteID]` -> `Pacientes[PacienteID]`
 - `Citas[MedicoID]` -> `Medicos[MedicoID]`
-- `Citas[Fecha]` -> `Calendario[Fecha]`
+- `Citas[Fecha]` -> tabla calendario creada por el estudiante
 
-Medidas sugeridas:
+Metricas posibles:
 
 - Total de citas
 - Citas asistidas
@@ -80,7 +89,7 @@ Relaciones sugeridas:
 - `Notas[EstudianteID]` -> `Estudiantes[EstudianteID]`
 - `Notas[CursoID]` -> `Cursos[CursoID]`
 
-Medidas sugeridas:
+Metricas posibles:
 
 - Promedio de nota
 - Porcentaje de aprobacion
@@ -102,9 +111,9 @@ Relaciones sugeridas:
 
 - `Envios[ZonaID]` -> `Zonas[ZonaID]`
 - `Envios[VehiculoID]` -> `Vehiculos[VehiculoID]`
-- `Envios[FechaDespacho]` -> `Calendario[Fecha]`
+- `Envios[FechaDespacho]` -> tabla calendario creada por el estudiante
 
-Medidas sugeridas:
+Metricas posibles:
 
 - Total de envios
 - Paquetes entregados
@@ -125,9 +134,9 @@ Errores intencionales:
 Relaciones sugeridas:
 
 - `Resultados[CampanaID]` -> `Campanas[CampanaID]`
-- `Resultados[Fecha]` -> `Calendario[Fecha]`
+- `Resultados[Fecha]` -> tabla calendario creada por el estudiante
 
-Medidas sugeridas:
+Metricas posibles:
 
 - Inversion total
 - Clics totales
